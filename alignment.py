@@ -18,7 +18,7 @@
 #     return test_out
 
 
-# ------Load Tacotron2------ #
+# ------Load Tacotron2_------ #
 
 import torch
 import numpy as np
@@ -26,10 +26,10 @@ import argparse
 import matplotlib.pylab as plt
 import os
 
-import Tacotron2.hparams as hp_tacotron2
-# import Tacotron2.model as model_tacotron2
-# import Tacotron2.layers as layers_tacotron2
-import Tacotron2.train as train_tacotron2
+import Tacotron2_.hparams as hp_tacotron2
+# import Tacotron2_.model as model_tacotron2
+# import Tacotron2_.layers as layers_tacotron2
+import Tacotron2_.train as train_tacotron2
 from text import text_to_sequence
 import audio
 import hparams as hp
@@ -39,7 +39,7 @@ def get_tacotron2():
     hparams = hp_tacotron2.create_hparams()
     hparams.sampling_rate = hp.sample_rate
 
-    checkpoint_path = os.path.join("Tacotron2", os.path.join(
+    checkpoint_path = os.path.join("Tacotron2_", os.path.join(
         "pre_trained_model", "tacotron2_statedict.pt"))
 
     tacotron2 = train_tacotron2.load_model(hparams)
@@ -73,7 +73,7 @@ def get_tacotron2_alignment_test(args):
     hparams = hp_tacotron2.create_hparams()
     hparams.sampling_rate = hp.sample_rate
 
-    # checkpoint_path = os.path.join("Tacotron2", os.path.join(
+    # checkpoint_path = os.path.join("Tacotron2_", os.path.join(
     #     "pre_trained_model", "tacotron2_statedict.pt"))
 
     tacotron2 = train_tacotron2.load_model(hparams)
