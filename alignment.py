@@ -22,7 +22,7 @@
 
 import torch
 import numpy as np
-import matplotlib
+import argparse
 import matplotlib.pylab as plt
 import os
 
@@ -67,12 +67,14 @@ def get_tacotron2_alignment(text_seq, tacotron2):
     return alignment
 
 
-def get_tacotron2_alignment_test(text_seq):
+def get_tacotron2_alignment_test(args):
+    text_seq = args.sent
+    checkpoint_path = args.path
     hparams = hp_tacotron2.create_hparams()
     hparams.sampling_rate = hp.sample_rate
 
-    checkpoint_path = os.path.join("Tacotron2", os.path.join(
-        "pre_trained_model", "tacotron2_statedict.pt"))
+    # checkpoint_path = os.path.join("Tacotron2", os.path.join(
+    #     "pre_trained_model", "tacotron2_statedict.pt"))
 
     tacotron2 = train_tacotron2.load_model(hparams)
     # map_location = torch.device('cpu')
@@ -150,7 +152,12 @@ def process_text(train_text_path):
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--path', type=str, default='./')
+    parser.add_argument('--sent', type=float, default='xin chào tất cả các bạn')
+    args = parser.parse_args()
     # Test
     alignment = get_tacotron2_alignment_test(
-        "I want to go to CMU to do research on deep learning.")
+        # "I want to go to CMU to do research on deep learning.")
+        args)
     print(alignment)
