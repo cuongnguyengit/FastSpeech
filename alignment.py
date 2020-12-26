@@ -27,8 +27,8 @@ import matplotlib.pylab as plt
 import os
 
 import Tacotron2.hparams as hp_tacotron2
-import Tacotron2.model as model_tacotron2
-import Tacotron2.layers as layers_tacotron2
+# import Tacotron2.model as model_tacotron2
+# import Tacotron2.layers as layers_tacotron2
 import Tacotron2.train as train_tacotron2
 from text import text_to_sequence
 import audio
@@ -75,6 +75,7 @@ def get_tacotron2_alignment_test(text_seq):
         "pre_trained_model", "tacotron2_statedict.pt"))
 
     tacotron2 = train_tacotron2.load_model(hparams)
+    # map_location = torch.device('cpu')
     tacotron2.load_state_dict(torch.load(checkpoint_path)["state_dict"])
     _ = tacotron2.cuda().eval().half()
 
@@ -82,7 +83,7 @@ def get_tacotron2_alignment_test(text_seq):
     print("sequence size", np.shape(sequence))
 
     sequence = torch.autograd.Variable(
-        torch.from_numpy(sequence)).cuda().long()
+        torch.from_numpy(sequence)).long()
 
     mel, mel_postnet, _, alignment = tacotron2.inference(sequence)
 
