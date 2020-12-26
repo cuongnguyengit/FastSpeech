@@ -78,8 +78,13 @@ def get_tacotron2_alignment_test(args):
 
     tacotron2 = train_tacotron2.load_model(hparams)
     # map_location = torch.device('cpu')
-    tacotron2.load_state_dict(torch.load(checkpoint_path)["state_dict"])
-    _ = tacotron2.cuda().eval().half()
+    try:
+        tacotron2.load_state_dict(torch.load(checkpoint_path)["state_dict"])
+        _ = tacotron2.cuda().eval().half()
+    except Exception as e:
+        print('### ERROR', e)
+        tacotron2.load_state_dict(torch.jit.load(checkpoint_path)["state_dict"])
+        _ = tacotron2.cuda().eval().half()
 
     sequence = np.array(text_to_sequence(text_seq, hp.text_cleaners))[None, :]
     print("sequence size", np.shape(sequence))
