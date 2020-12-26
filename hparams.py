@@ -43,4 +43,4 @@ log_step = 5
 clear_Time = 20
 
 batch_expand_size = 32
-sample_rate = 8000
+sample_rate = 22050

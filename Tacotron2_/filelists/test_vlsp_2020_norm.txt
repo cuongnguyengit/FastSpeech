@@ -1,0 +1,612 @@
+/content/tts/data_preprocess/data_norm/11478.wav|rồi thì khi nào cần thiết chúng tôi muốn phái du kích đi thì chúng tôi sẽ phái đi .|rồi thì khi nào cần thiết chúng tôi muốn phái du kích đi thì chúng tôi sẽ phái đi .
+/content/tts/data_preprocess/data_norm/07378.wav|những chiếc máy bay sáng nay trông thật sướng cả người .|những chiếc máy bay sáng nay trông thật sướng cả người .
+/content/tts/data_preprocess/nsw_norm/10530.wav|anh-săn-mô đi ra chui qua cái trăng treo ở cửa .|anh-săn-mô đi ra chui qua cái trăng treo ở cửa .
+/content/tts/data_preprocess/data_norm/13543.wav|anh gọi lên bảo an sinh mô và leo qua các trầm sắc dưới gầm cầu .|anh gọi lên bảo an sinh mô và leo qua các trầm sắc dưới gầm cầu .
+/content/tts/data_preprocess/data_norm/05658.wav|mà một thân hình khác lại không có .|mà một thân hình khác lại không có .
+/content/tts/data_preprocess/data_norm/11175.wav|một người bị đánh thức dậy buổi sáng quá sớm thường có một cảm giác trống rỗng gần giống như cảm giác khi xảy ra tai họa lớn .|một người bị đánh thức dậy buổi sáng quá sớm thường có một cảm giác trống rỗng gần giống như cảm giác khi xảy ra tai họa lớn .
+/content/tts/data_preprocess/data_norm/09577.wav|lấy hết mọi thứ tất cả các thư từ giấy tờ rồi bỏ vào cái túi ngoài ba lô của tôi tất cả chị hiểu không .|lấy hết mọi thứ tất cả các thư từ giấy tờ rồi bỏ vào cái túi ngoài ba lô của tôi tất cả chị hiểu không .
+/content/tts/data_preprocess/data_norm/01637.wav|nhưng anh biết rằng máy bay bay cao như thế thì không thể nào biết chắc được .|nhưng anh biết rằng máy bay bay cao như thế thì không thể nào biết chắc được .
+/content/tts/data_preprocess/data_norm/10093.wav|chúng ta không thể để mặc họ mộ mình trong lúc này được họ là những đồng chí của chúng ta .|chúng ta không thể để mặc họ mộ mình trong lúc này được họ là những đồng chí của chúng ta .
+/content/tts/data_preprocess/data_norm/16292.wav|người ta đã hứa điều một chuyến xa tới và nó vẫn chưa tới .|người ta đã hứa điều một chuyến xa tới và nó vẫn chưa tới .
+/content/tts/data_preprocess/nsw_norm/03268.wav|anh thầm nghĩ chúng nó đang bay tới khoan-mê-na .|anh thầm nghĩ chúng nó đang bay tới khoan-mê-na .
+/content/tts/data_preprocess/data_norm/04729.wav|khi một người ta trông thấy trên màn ảnh đến tối lại đến bên giường ta ngủ và tỏ ra rất diụ dàng rất đáng yêu .|khi một người ta trông thấy trên màn ảnh đến tối lại đến bên giường ta ngủ và tỏ ra rất diụ dàng rất đáng yêu .
+/content/tts/data_preprocess/data_norm/06162.wav|nhưng mà em còn có thể làm được nhiều việc khác nữa cho anh .|nhưng mà em còn có thể làm được nhiều việc khác nữa cho anh .
+/content/tts/data_preprocess/data_norm/00988.wav|xếp chỗ xương thỏ sang một bên chấm nốt chỗ nước sốt ở chỗ xương cũ .|xếp chỗ xương thỏ sang một bên chấm nốt chỗ nước sốt ở chỗ xương cũ .
+/content/tts/data_preprocess/data_norm/13797.wav|anh cứ giữ lấy khẩu súng này đã chờ tôi mang khẩu kia lại .|anh cứ giữ lấy khẩu súng này đã chờ tôi mang khẩu kia lại .
+/content/tts/data_preprocess/data_norm/18344.wav|tuy rằng chính viên hạ sĩ đã nói .|tuy rằng chính viên hạ sĩ đã nói .
+/content/tts/data_preprocess/data_norm/13004.wav|ông ta là tổng chính qủy các lữ đoàn quốc tế kim mà .|ông ta là tổng chính qủy các lữ đoàn quốc tế kim mà .
+/content/tts/data_preprocess/data_norm/15070.wav|và người trông nom quán trường có nhiệm vụ mỗi sáng và lấy vòi nước tưới quảng trường .|và người trông nom quán trường có nhiệm vụ mỗi sáng và lấy vòi nước tưới quảng trường .
+/content/tts/data_preprocess/data_norm/09379.wav|khi có một bà cụ ở trong lò sát sinh đi ra .|khi có một bà cụ ở trong lò sát sinh đi ra .
+/content/tts/data_preprocess/data_norm/18998.wav|mày có thể không làm gì được cho mày nhưng có lẽ mày có thể làm được một cái gì đó cho một người khác .|mày có thể không làm gì được cho mày nhưng có lẽ mày có thể làm được một cái gì đó cho một người khác .
+/content/tts/data_preprocess/data_norm/11484.wav|anh cho đó là mộ nhiệt hoàn toàn bình thường ra đá chờ đợi điều đó .|anh cho đó là mộ nhiệt hoàn toàn bình thường ra đá chờ đợi điều đó .
+/content/tts/data_preprocess/data_norm/16893.wav|một người phải giữ chắc bệ súng cho khẩu súng khỏi chồm lên .|một người phải giữ chắc bệ súng cho khẩu súng khỏi chồm lên .
+/content/tts/data_preprocess/data_norm/10804.wav|nhưng mà trước đây vẫn không sao cả kim mà .|nhưng mà trước đây vẫn không sao cả kim mà .
+/content/tts/data_preprocess/data_norm/07110.wav|còn cái bốt ở chỗ xưởng cưa thế nào .|còn cái bốt ở chỗ xưởng cưa thế nào .
+/content/tts/data_preprocess/data_norm/13900.wav|họ trông thấy hắn dừng lại tùy vào đá bắn trở lại .|họ trông thấy hắn dừng lại tùy vào đá bắn trở lại .
+/content/tts/data_preprocess/data_norm/10593.wav|nhưng chưa xảy ra việc gì thì mình báo tin thế nào được .|nhưng chưa xảy ra việc gì thì mình báo tin thế nào được .
+/content/tts/data_preprocess/data_norm/04154.wav|không ai nói gì và không ai chạm đến nó .|không ai nói gì và không ai chạm đến nó .
+/content/tts/data_preprocess/data_norm/04385.wav|tôi liền lại gần hàng người đứng chen chúc bên cửa để cố nhìn xem .|tôi liền lại gần hàng người đứng chen chúc bên cửa để cố nhìn xem .
+/content/tts/data_preprocess/data_norm/14525.wav|anh để ông của đó ghi nhớ lại chỗ đó để có thể dẫn tôi tới đó được .|anh để ông của đó ghi nhớ lại chỗ đó để có thể dẫn tôi tới đó được .
+/content/tts/data_preprocess/data_norm/14119.wav|khi đó ba lô nhét ba cái dây buộc chân ngựa hắn đang cầm ở tay vào một cái túi yên ngựa .|khi đó ba lô nhét ba cái dây buộc chân ngựa hắn đang cầm ở tay vào một cái túi yên ngựa .
+/content/tts/data_preprocess/data_norm/15561.wav|chúng tôi đang đứng dậy sau khi ghế đã bị gãy đám đông đang ùn ùn kéo vào trong tòa thị chính .|chúng tôi đang đứng dậy sau khi ghế đã bị gãy đám đông đang ùn ùn kéo vào trong tòa thị chính .
+/content/tts/data_preprocess/data_norm/03979.wav|do bụi tung lên rất cao và không có gió thổi .|do bụi tung lên rất cao và không có gió thổi .
+/content/tts/data_preprocess/data_norm/10363.wav|lão đang chăm chú nhìn thì có một thằng thò đầu lên trên đống đá .|lão đang chăm chú nhìn thì có một thằng thò đầu lên trên đống đá .
+/content/tts/data_preprocess/data_norm/17807.wav|nhưng anh sẽ bảo em giờ em sẽ không bao giờ lầm lẫn đến hai lần hay là chỉ hai lần mà thôi .|nhưng anh sẽ bảo em giờ em sẽ không bao giờ lầm lẫn đến hai lần hay là chỉ hai lần mà thôi .
+/content/tts/data_preprocess/data_norm/02048.wav|anh nhìn thấy mặt cô gái cánh tay cô ta và những giọt nước đang chảy trên thìa rơi xuống cái nồi sắt .|anh nhìn thấy mặt cô gái cánh tay cô ta và những giọt nước đang chảy trên thìa rơi xuống cái nồi sắt .
+/content/tts/data_preprocess/data_norm/04380.wav|tên kéo ngã quàng tay và cổ tên kia và đưa cho nó một chai rượu hôn vào cái khăn tay đỏ đen của nó rồi hai đứa cùng uống .|tên kéo ngã quàng tay và cổ tên kia và đưa cho nó một chai rượu hôn vào cái khăn tay đỏ đen của nó rồi hai đứa cùng uống .
+/content/tts/data_preprocess/data_norm/10318.wav|rồi khi con ngựa gục xuống lão đã phục xuống sau tấm lưng nóng hổi và ướt đẫm của nó .|rồi khi con ngựa gục xuống lão đã phục xuống sau tấm lưng nóng hổi và ướt đẫm của nó .
+/content/tts/data_preprocess/data_norm/18176.wav|vả lại mình sẽ có được kết thú giết vài thằng phát xít .|vả lại mình sẽ có được kết thú giết vài thằng phát xít .
+/content/tts/data_preprocess/data_norm/18670.wav|giờ anh ngẩng đầu lên nhìn ra chiếc cầu .|giờ anh ngẩng đầu lên nhìn ra chiếc cầu .
+/content/tts/data_preprocess/data_norm/06950.wav|anh là người bạn tốt nhất và cao thượng nhất của tôi trên thế gian này .|anh là người bạn tốt nhất và cao thượng nhất của tôi trên thế gian này .
+/content/tts/data_preprocess/nsw_norm/10613.wav|trong trận tấn công ở ác-gan-đa vào con đường ma-rít va nê xi a .|trong trận tấn công ở ác-gan-đa vào con đường ma-rít va nê xi a .
+/content/tts/data_preprocess/data_norm/14841.wav|dừng ở đó không lịch sự và tôi cũng không thể hiểu được họ .|dừng ở đó không lịch sự và tôi cũng không thể hiểu được họ .
+/content/tts/data_preprocess/data_merge_norm/09460_13090.wav|thế là có kỵ binh đến ở ngoài kia rồi đấy , nhưng anh bảo là phải đi nhanh .|thế là có kỵ binh đến ở ngoài kia rồi đấy , nhưng anh bảo là phải đi nhanh .
+/content/tts/data_preprocess/data_norm/07462.wav|tất cả mọi điều khác đều có thể tha thứ được .|tất cả mọi điều khác đều có thể tha thứ được .
+/content/tts/data_preprocess/data_norm/07236.wav|một ánh lửa lóe lên ở cửa sổ xưởng cưa .|một ánh lửa lóe lên ở cửa sổ xưởng cưa .
+/content/tts/data_preprocess/data_merge_norm/15846_18967.wav|bọn phát xít mất một cái đầu máy và chết vài tên , và rốt cuộc lại không còn vấn đề gì nữa .|bọn phát xít mất một cái đầu máy và chết vài tên , và rốt cuộc lại không còn vấn đề gì nữa .
+/content/tts/data_preprocess/data_norm/01226.wav|mụ ta rất tốt với cô bé săn sóc cổ chu đáo lắm .|mụ ta rất tốt với cô bé săn sóc cổ chu đáo lắm .
+/content/tts/data_preprocess/data_norm/14444.wav|và cả hai người cùng đi trong em .|và cả hai người cùng đi trong em .
+/content/tts/data_preprocess/data_norm/02696.wav|nó khó chịu vì có người đứng bên nó và vì những lời nói của người đó .|nó khó chịu vì có người đứng bên nó và vì những lời nói của người đó .
+/content/tts/data_preprocess/data_norm/17534.wav|trên bục ngăn có bày những mũi tên .|trên bục ngăn có bày những mũi tên .
+/content/tts/data_preprocess/data_norm/07981.wav|thời kỳ đó tôi rất dã man .|thời kỳ đó tôi rất dã man .
+/content/tts/data_preprocess/data_norm/15874.wav|phải rất lạ nhưng tốt .|phải rất lạ nhưng tốt .
+/content/tts/data_preprocess/data_norm/00192.wav|tôi tổ chức cuộc tấn công nhưng không phải là của tôi .|tôi tổ chức cuộc tấn công nhưng không phải là của tôi .
+/content/tts/data_preprocess/data_norm/03365.wav|những chiếc khác chắc đã bay qua dãy núi ở cách xa đây .|những chiếc khác chắc đã bay qua dãy núi ở cách xa đây .
+/content/tts/data_preprocess/data_norm/11481.wav|cuộc tra hỏi không có gì làm anh ngạc nhiên .|cuộc tra hỏi không có gì làm anh ngạc nhiên .
+/content/tts/data_preprocess/data_norm/04301.wav|rồi nó giơ tay vẫy về phía người đàn bà gọi và bắt đầu đi vào giữa hai hàng người .|rồi nó giơ tay vẫy về phía người đàn bà gọi và bắt đầu đi vào giữa hai hàng người .
+/content/tts/data_preprocess/data_norm/12245.wav|anh đừng nói gì làm họ thất vọng .|anh đừng nói gì làm họ thất vọng .
+/content/tts/data_preprocess/data_norm/08119.wav|ở đây thật cứ như là một nhà thương điên vậy .|ở đây thật cứ như là một nhà thương điên vậy .
+/content/tts/data_preprocess/data_norm/06408.wav|và đã được xác nhận của người ghi ta nót .|và đã được xác nhận của người ghi ta nót .
+/content/tts/data_preprocess/data_norm/10636.wav|nhưng dẫu sao thì cái chuyện cắt đầu kể cũng ghê rợn thật .|nhưng dẫu sao thì cái chuyện cắt đầu kể cũng ghê rợn thật .
+/content/tts/data_preprocess/data_norm/10483.wav|những cái đó là tôi cũng nhầm lớn luôn .|những cái đó là tôi cũng nhầm lớn luôn .
+/content/tts/data_preprocess/data_norm/09693.wav|anh nói xa ra ngoài kia nữa .|anh nói xa ra ngoài kia nữa .
+/content/tts/data_preprocess/data_merge_norm/13029_08882.wav|trước kia tôi vẫn cho ông ta là một nhân vật vĩ đại , nó đã quay hai lần rồi lại trở về chỗ bắt đầu .|trước kia tôi vẫn cho ông ta là một nhân vật vĩ đại , nó đã quay hai lần rồi lại trở về chỗ bắt đầu .
+/content/tts/data_preprocess/data_norm/15471.wav|góc phòng biến thành một chiến lũy .|góc phòng biến thành một chiến lũy .
+/content/tts/data_preprocess/data_norm/13885.wav|anh nhìn xuống cầu doanh nhân lái tên lính gác đang nằm trên đường .|anh nhìn xuống cầu doanh nhân lái tên lính gác đang nằm trên đường .
+/content/tts/data_preprocess/data_norm/13018.wav|không ai nên hỏi lão ta cái gì cả lão ta điên đấy .|không ai nên hỏi lão ta cái gì cả lão ta điên đấy .
+/content/tts/data_preprocess/data_norm/16460.wav|anh gạt khẩu súng ra rồi chui sâu vào trong túi chăng .|anh gạt khẩu súng ra rồi chui sâu vào trong túi chăng .
+/content/tts/data_preprocess/data_norm/18215.wav|nếu ba mình không phải là một người cộng hòa thì có lẽ cả ê la đi ô lẫn mình lúc này đã là lính của bọn phát xít .|nếu ba mình không phải là một người cộng hòa thì có lẽ cả ê la đi ô lẫn mình lúc này đã là lính của bọn phát xít .
+/content/tts/data_preprocess/data_norm/11115.wav|bây giờ người ta lại chó miệng vào cả tôi nữa .|bây giờ người ta lại chó miệng vào cả tôi nữa .
+/content/tts/data_preprocess/data_norm/14157.wav|họ đi xuống qua cánh rừng ra bờ đường .|họ đi xuống qua cánh rừng ra bờ đường .
+/content/tts/data_preprocess/data_norm/05346.wav|thế thôi không có gì khác cả .|thế thôi không có gì khác cả .
+/content/tts/data_preprocess/data_norm/18050.wav|nhưng sáng mai chúng ta sẽ giả cho chúng nó một trận .|nhưng sáng mai chúng ta sẽ giả cho chúng nó một trận .
+/content/tts/data_preprocess/data_norm/01507.wav|cảm ơn chị vì những điều chị đã nói với tôi .|cảm ơn chị vì những điều chị đã nói với tôi .
+/content/tts/data_preprocess/data_norm/04102.wav|ba mặt quảng trường là cái cổng tò vò .|ba mặt quảng trường là cái cổng tò vò .
+/content/tts/data_preprocess/data_norm/03808.wav|hôm nay đẹp trời quá giờ tôi thật vui thích gì không phải ở trong rừng thông .|hôm nay đẹp trời quá giờ tôi thật vui thích gì không phải ở trong rừng thông .
+/content/tts/data_preprocess/data_norm/06034.wav|hai đêm để yêu để qúy trọng và trìu mến dù hay dù dở .|hai đêm để yêu để qúy trọng và trìu mến dù hay dù dở .
+/content/tts/data_preprocess/data_merge_norm/04144_16909.wav|một người khác hét lên và tất cả lại cười , còn việc này thì không có nghĩa lý gì .|một người khác hét lên và tất cả lại cười , còn việc này thì không có nghĩa lý gì .
+/content/tts/data_preprocess/data_norm/14661.wav|tôi không biết nó ở chỗ nào nhưng tôi chưa đến gần bao giờ .|tôi không biết nó ở chỗ nào nhưng tôi chưa đến gần bao giờ .
+/content/tts/data_preprocess/data_norm/12925.wav|nhà có ánh đèn nhấp nháy trước cửa một tòa nhà lớn bằng đá hiện lên lù lù dài và đen sì trên nền trời đêm .|nhà có ánh đèn nhấp nháy trước cửa một tòa nhà lớn bằng đá hiện lên lù lù dài và đen sì trên nền trời đêm .
+/content/tts/data_preprocess/data_norm/11082.wav|chuyện bọn phát xít đánh lẫn nhau .|chuyện bọn phát xít đánh lẫn nhau .
+/content/tts/data_preprocess/data_norm/15941.wav|nhưng đừng có đóng cửa lại đối với những người khác không phải là người ngoại quốc .|nhưng đừng có đóng cửa lại đối với những người khác không phải là người ngoại quốc .
+/content/tts/data_preprocess/data_norm/10380.wav|giữa hai người đặt một chiếc bát đầy rượu vào mỗi người có một chén rượu để trên bàn .|giữa hai người đặt một chiếc bát đầy rượu vào mỗi người có một chén rượu để trên bàn .
+/content/tts/data_preprocess/data_norm/16670.wav|nếu chúng ta không phải đánh nhau hôm nay .|nếu chúng ta không phải đánh nhau hôm nay .
+/content/tts/data_preprocess/data_norm/11524.wav|tự do không phải là ở chỗ không chôn phân mình ra .|tự do không phải là ở chỗ không chôn phân mình ra .
+/content/tts/data_preprocess/data_norm/10747.wav|rồi anh lại buông thả mình thoát ra khỏi thực tại và cảm thấy trong đó mọi sự khoái lạc giống như khi hưởng cái thú vật dụng .|rồi anh lại buông thả mình thoát ra khỏi thực tại và cảm thấy trong đó mọi sự khoái lạc giống như khi hưởng cái thú vật dụng .
+/content/tts/data_preprocess/data_norm/13261.wav|nhưng đáng lẽ nói thế thì con dơ lại chỉ ngả người ra đằng sau xa cái khối thịt đang cúi xuống .|nhưng đáng lẽ nói thế thì con dơ lại chỉ ngả người ra đằng sau xa cái khối thịt đang cúi xuống .
+/content/tts/data_preprocess/data_norm/15611.wav|hay là sau một trận đánh nhau vậy .|hay là sau một trận đánh nhau vậy .
+/content/tts/data_preprocess/data_norm/18092.wav|trên tường đá rơi xuống những vũng nước ngoài đường phố bẩn thỉu trong làng .|trên tường đá rơi xuống những vũng nước ngoài đường phố bẩn thỉu trong làng .
+/content/tts/data_preprocess/data_norm/12511.wav|ông đã trở thành một người cộng hòa .|ông đã trở thành một người cộng hòa .
+/content/tts/data_preprocess/data_norm/01169.wav|chúng tôi chiếm được trong trận tập kích ra trò cuối cùng trước trận lấy được rượu .|chúng tôi chiếm được trong trận tập kích ra trò cuối cùng trước trận lấy được rượu .
+/content/tts/data_preprocess/data_norm/12889.wav|mùa trên xe vận tải đi trong đêm tối đi tới một cái gì đó mà họ chỉ biết là một cuộc tấn công .|mùa trên xe vận tải đi trong đêm tối đi tới một cái gì đó mà họ chỉ biết là một cuộc tấn công .
+/content/tts/data_preprocess/data_norm/16483.wav|đừng có phá cái ván gỗ mới của tôi để làm giường đấy .|đừng có phá cái ván gỗ mới của tôi để làm giường đấy .
+/content/tts/data_preprocess/data_norm/01991.wav|phải luôn luôn để ý trông coi cái đó .|phải luôn luôn để ý trông coi cái đó .
+/content/tts/data_preprocess/data_norm/05736.wav|ta chỉ nói là không thể làm được .|ta chỉ nói là không thể làm được .
+/content/tts/data_preprocess/data_norm/10141.wav|sơ đồ mới thấy hết là lưng do lão quyết định dành lại băng đạn bắn dở cho đến khi nào cần đến .|sơ đồ mới thấy hết là lưng do lão quyết định dành lại băng đạn bắn dở cho đến khi nào cần đến .
+/content/tts/data_preprocess/data_norm/13519.wav|anh nghe thấy tiếng nước chảy ào ào bên dưới tiếng súng nổ .|anh nghe thấy tiếng nước chảy ào ào bên dưới tiếng súng nổ .
+/content/tts/data_preprocess/data_norm/15594.wav|và nếu chúng ta lại làm cách mạng một lần nữa .|và nếu chúng ta lại làm cách mạng một lần nữa .
+/content/tts/data_preprocess/data_norm/05903.wav|lại còn chẳng phải thế gì nữa .|lại còn chẳng phải thế gì nữa .
+/content/tts/data_preprocess/data_norm/02428.wav|anh đưa chén trà lấy rượu vang .|anh đưa chén trà lấy rượu vang .
+/content/tts/data_preprocess/data_norm/16194.wav|có những cây thông nhỏ và nhiều bụi rậm .|có những cây thông nhỏ và nhiều bụi rậm .
+/content/tts/data_preprocess/data_norm/13732.wav|tôi sẽ không giật nổ nếu anh còn ở dưới đó .|tôi sẽ không giật nổ nếu anh còn ở dưới đó .
+/content/tts/data_preprocess/data_norm/11631.wav|anh cần phải nói với em vì đây là một cái gì rất lớn .|anh cần phải nói với em vì đây là một cái gì rất lớn .
+/content/tts/data_preprocess/data_norm/12117.wav|thì tôi đã nhìn vấn đề một cách khác .|thì tôi đã nhìn vấn đề một cách khác .
+/content/tts/data_preprocess/data_norm/03176.wav|chắc là nó mới xuống đem ngựa vào tàu .|chắc là nó mới xuống đem ngựa vào tàu .
+/content/tts/data_preprocess/data_norm/18237.wav|mình thích những cái nho nhỏ và bình thường như thế .|mình thích những cái nho nhỏ và bình thường như thế .
+/content/tts/data_preprocess/data_norm/00983.wav|thịt róc xương nước sốt thật tuyệt .|thịt róc xương nước sốt thật tuyệt .
+/content/tts/data_preprocess/data_norm/07466.wav|mình rất mong thanh toán nó ngay .|mình rất mong thanh toán nó ngay .
+/content/tts/data_preprocess/data_norm/17390.wav|chỉ có ở những nước mà sự chửi rủa thường đi đôi với sự nghiệt ngã của tôn giáo .|chỉ có ở những nước mà sự chửi rủa thường đi đôi với sự nghiệt ngã của tôn giáo .
+/content/tts/data_preprocess/nsw_norm/11872.wav|cha đời thẳng páp-lô anh nghĩ .|cha đời thẳng páp-lô anh nghĩ .
+/content/tts/data_preprocess/data_norm/11639.wav|em cũng phải cảm ơn anh vì đã một lần nữa thấy sung sướng .|em cũng phải cảm ơn anh vì đã một lần nữa thấy sung sướng .
+/content/tts/data_preprocess/data_norm/06494.wav|trong khi họ trò chuyện mặt trời đã bị mây che lấp .|trong khi họ trò chuyện mặt trời đã bị mây che lấp .
+/content/tts/data_preprocess/data_norm/08385.wav|nghe như nhìn đằng sau đít chúng nó còn đẹp và còn nhiều hơn những loại người này .|nghe như nhìn đằng sau đít chúng nó còn đẹp và còn nhiều hơn những loại người này .
+/content/tts/data_preprocess/data_norm/04659.wav|không phải bao giờ cũng thế nhưng khá nhiều lần như thế .|không phải bao giờ cũng thế nhưng khá nhiều lần như thế .
+/content/tts/data_preprocess/data_merge_norm/13831_02286.wav|mọi việc xảy ra nhanh quá và bình thường quá , cú đó quá nhiều lời về những điều mà cụ không hiểu .|mọi việc xảy ra nhanh quá và bình thường quá , cú đó quá nhiều lời về những điều mà cụ không hiểu .
+/content/tts/data_preprocess/data_norm/16121.wav|sau một thời gian thì sẽ không còn hai tay lái nữa .|sau một thời gian thì sẽ không còn hai tay lái nữa .
+/content/tts/data_preprocess/data_norm/07118.wav|hắn đứng nguyên ở cửa hang cởi áo ra giũ .|hắn đứng nguyên ở cửa hang cởi áo ra giũ .
+/content/tts/data_preprocess/data_norm/13362.wav|chúng nó sẽ không thể đánh một nước nào khác được trước khi chúng thanh toán xong chúng ta .|chúng nó sẽ không thể đánh một nước nào khác được trước khi chúng thanh toán xong chúng ta .
+/content/tts/data_preprocess/data_norm/00131.wav|anh ngồi xuống bên những chiếc ba lô và nhìn ông cụ leo lên vách đá .|anh ngồi xuống bên những chiếc ba lô và nhìn ông cụ leo lên vách đá .
+/content/tts/data_preprocess/data_norm/06664.wav|thế thì anh nên nói bằng tiếng tây ban nha .|thế thì anh nên nói bằng tiếng tây ban nha .
+/content/tts/data_preprocess/data_norm/17362.wav|lão cười và cố kìm lại di cười rung cánh tay làm lão đao .|lão cười và cố kìm lại di cười rung cánh tay làm lão đao .
+/content/tts/data_preprocess/data_norm/02683.wav|con ngựa đang kéo cái thừng buộc nó vào cổ và tây ba lô vuốt ve của nó .|con ngựa đang kéo cái thừng buộc nó vào cổ và tây ba lô vuốt ve của nó .
+/content/tts/data_preprocess/data_norm/00189.wav|cuộc tấn công này sẽ bắt đầu đúng giờ nếu đây là cuộc tấn công của đồng chí .|cuộc tấn công này sẽ bắt đầu đúng giờ nếu đây là cuộc tấn công của đồng chí .
+/content/tts/data_preprocess/data_norm/17458.wav|mắt màu xanh nhạt nhìn không tập trung .|mắt màu xanh nhạt nhìn không tập trung .
+/content/tts/data_preprocess/data_norm/15296.wav|thế bây giờ họ đã nổi giận ra sự thay đổi đó thật là rõ rệt .|thế bây giờ họ đã nổi giận ra sự thay đổi đó thật là rõ rệt .
+/content/tts/data_preprocess/data_norm/12129.wav|nhưng khi đã quẳng những thứ của anh đi rồi thì tôi thấy tôi đơn độc quá .|nhưng khi đã quẳng những thứ của anh đi rồi thì tôi thấy tôi đơn độc quá .
+/content/tts/data_preprocess/data_norm/09167.wav|anh có cho rằng có thể có người biết trước được những điều xảy đến với mình không .|anh có cho rằng có thể có người biết trước được những điều xảy đến với mình không .
+/content/tts/data_preprocess/data_norm/10162.wav|khi súng bắt đầu nổ thì hắn chụp cái mũ vào đầu mặt quá đến nỗi choáng váng như bị ai cầm một cây son đập vào đầu .|khi súng bắt đầu nổ thì hắn chụp cái mũ vào đầu mặt quá đến nỗi choáng váng như bị ai cầm một cây son đập vào đầu .
+/content/tts/data_preprocess/nsw_norm/05353.wav|chị không phải là người đàn bà làm tô-i-la mà là một người đàn bà sinh ra vì đàn ông .|chị không phải là người đàn bà làm tô-i-la mà là một người đàn bà sinh ra vì đàn ông .
+/content/tts/data_preprocess/data_norm/13721.wav|không anh bạn chúng tôi sẽ lấy cho anh một con ngựa .|không anh bạn chúng tôi sẽ lấy cho anh một con ngựa .
+/content/tts/data_preprocess/data_norm/11701.wav|anh xin mua là người bạn thân nhất của mình .|anh xin mua là người bạn thân nhất của mình .
+/content/tts/data_preprocess/data_norm/08997.wav|khi mà đã làm xong .|khi mà đã làm xong .
+/content/tts/data_preprocess/data_norm/09704.wav|các anh không bao giờ có được một chỗ tốt để đặt khẩu súng này .|các anh không bao giờ có được một chỗ tốt để đặt khẩu súng này .
+/content/tts/data_preprocess/data_norm/05772.wav|trong thời gian chiến tranh anh tuân theo kỷ luật cộng sản .|trong thời gian chiến tranh anh tuân theo kỷ luật cộng sản .
+/content/tts/data_preprocess/data_norm/10132.wav|rồi một tay nắm lấy bờm con ngựa .|rồi một tay nắm lấy bờm con ngựa .
+/content/tts/data_preprocess/data_norm/10716.wav|anh nói và duỗi người trong chiếc túi chăng .|anh nói và duỗi người trong chiếc túi chăng .
+/content/tts/data_preprocess/data_norm/03312.wav|tôi muốn yêu cầu cố đi quan sát con đường ghi lại tất cả những gì đi lên và đi xuống trên con đường đó .|tôi muốn yêu cầu cố đi quan sát con đường ghi lại tất cả những gì đi lên và đi xuống trên con đường đó .
+/content/tts/data_preprocess/data_norm/17981.wav|nhưng em nhìn kỹ thì biết rằng đó chính là em .|nhưng em nhìn kỹ thì biết rằng đó chính là em .
+/content/tts/data_preprocess/data_norm/11374.wav|lại nghe thấy tiếng quy lát lách cách .|lại nghe thấy tiếng quy lát lách cách .
+/content/tts/data_preprocess/data_norm/05675.wav|trong lúc sung sướng em thích được cưỡi một con ngựa tốt .|trong lúc sung sướng em thích được cưỡi một con ngựa tốt .
+/content/tts/data_preprocess/data_norm/10648.wav|nhưng đừng có tưởng là mình có gì đặc biệt .|nhưng đừng có tưởng là mình có gì đặc biệt .
+/content/tts/data_preprocess/data_norm/07942.wav|nhưng khi nào sự việc xảy đến thế rồi họ sẽ hiểu ra .|nhưng khi nào sự việc xảy đến thế rồi họ sẽ hiểu ra .
+/content/tts/data_preprocess/data_norm/05867.wav|làm việc tại các khu rừng và học cách sử dụng thuốc nổ .|làm việc tại các khu rừng và học cách sử dụng thuốc nổ .
+/content/tts/data_preprocess/nsw_norm/10025.wav|tôi sẽ không bao giờ có được ma-ri-a .|tôi sẽ không bao giờ có được ma-ri-a .
+/content/tts/data_preprocess/data_norm/05686.wav|sự sung sướng của em có lẽ nó cũng không nhận thấy được điều đó đâu .|sự sung sướng của em có lẽ nó cũng không nhận thấy được điều đó đâu .
+/content/tts/data_preprocess/data_norm/13456.wav|đi qua cầu rồi ngược con đường đi lên .|đi qua cầu rồi ngược con đường đi lên .
+/content/tts/data_preprocess/data_norm/04576.wav|nhưng nếu bây giờ tôi mà vào vòng đấu bò thì tôi không biết tôi có chỉ huy nổi được cái chân của tôi không .|nhưng nếu bây giờ tôi mà vào vòng đấu bò thì tôi không biết tôi có chỉ huy nổi được cái chân của tôi không .
+/content/tts/data_preprocess/data_norm/18973.wav|anh nhìn xuống sườn núi xanh và trông thấy con ngựa xám đã bị a đớt tin bắn cho chết hẳn .|anh nhìn xuống sườn núi xanh và trông thấy con ngựa xám đã bị a đớt tin bắn cho chết hẳn .
+/content/tts/data_preprocess/data_norm/03402.wav|có lẽ dẫu sao còn có trời mặc dù chúng ta đã thủ tiêu ông trời đi rồi .|có lẽ dẫu sao còn có trời mặc dù chúng ta đã thủ tiêu ông trời đi rồi .
+/content/tts/data_preprocess/data_norm/13751.wav|đau lắm và bên trong chảy máu rất nhiều lúc cử động tôi cảm thấy bên trong chảy máu rất nhiều .|đau lắm và bên trong chảy máu rất nhiều lúc cử động tôi cảm thấy bên trong chảy máu rất nhiều .
+/content/tts/data_preprocess/data_norm/18089.wav|anh đã mong đợi cái phúc đó suốt cả năm khi anh còn trẻ .|anh đã mong đợi cái phúc đó suốt cả năm khi anh còn trẻ .
+/content/tts/data_preprocess/data_norm/13694.wav|cô cầm dây trở lại chỗ hòn đá cao kia .|cô cầm dây trở lại chỗ hòn đá cao kia .
+/content/tts/data_preprocess/data_norm/18724.wav|chúng tôi đã mất hai người ở chỗ xưởng cưa .|chúng tôi đã mất hai người ở chỗ xưởng cưa .
+/content/tts/data_preprocess/data_norm/04820.wav|có thể là ảnh đang hoạt động trong một nhóm nào đó một dãy núi khác .|có thể là ảnh đang hoạt động trong một nhóm nào đó một dãy núi khác .
+/content/tts/data_preprocess/data_norm/08111.wav|anh xoa cằm và má anh lởm chởm râu màu vàng hoe đã ba ngày không cạo .|anh xoa cằm và má anh lởm chởm râu màu vàng hoe đã ba ngày không cạo .
+/content/tts/data_preprocess/data_norm/11985.wav|nhưng rồi mọi việc sẽ ổn thỏa thôi anh bạn .|nhưng rồi mọi việc sẽ ổn thỏa thôi anh bạn .
+/content/tts/data_preprocess/data_norm/10479.wav|tôi sẽ bày cho anh ấy biết chỗ tìm thấy đồng chí đại tướng .|tôi sẽ bày cho anh ấy biết chỗ tìm thấy đồng chí đại tướng .
+/content/tts/data_preprocess/data_norm/14415.wav|em hãy làm việc đó vì anh vì đó là cái mà em có thể làm được .|em hãy làm việc đó vì anh vì đó là cái mà em có thể làm được .
+/content/tts/data_preprocess/data_norm/16891.wav|bắn tên nào cưỡi ngựa thì nhằm vào bụng nó .|bắn tên nào cưỡi ngựa thì nhằm vào bụng nó .
+/content/tts/data_preprocess/data_norm/01582.wav|lấy một ngón tay gõ gõ vào đầu mình gần cạnh mắt .|lấy một ngón tay gõ gõ vào đầu mình gần cạnh mắt .
+/content/tts/data_preprocess/data_norm/04263.wav|phố đầy người và khi họ kéo người da đen lên lần thứ hai .|phố đầy người và khi họ kéo người da đen lên lần thứ hai .
+/content/tts/data_preprocess/data_norm/01937.wav|thế anh không biết cái đó dùng để làm gì .|thế anh không biết cái đó dùng để làm gì .
+/content/tts/data_preprocess/data_norm/09420.wav|anh lấy ngón tay cái mở cửa khóa an toàn .|anh lấy ngón tay cái mở cửa khóa an toàn .
+/content/tts/data_preprocess/data_norm/03819.wav|thì em sẽ là một của qúy cho bất cứ một người đàn ông nào .|thì em sẽ là một của qúy cho bất cứ một người đàn ông nào .
+/content/tts/data_preprocess/data_norm/18427.wav|đồng chí đó là một trong số ba người tôi có thể trao thư được .|đồng chí đó là một trong số ba người tôi có thể trao thư được .
+/content/tts/data_preprocess/data_norm/13022.wav|tôi sẽ mất đầu tôi phải dẫn anh đến cho lão điên với lại lão ta còn giữ bức thư của anh kia mà .|tôi sẽ mất đầu tôi phải dẫn anh đến cho lão điên với lại lão ta còn giữ bức thư của anh kia mà .
+/content/tts/data_preprocess/data_norm/03907.wav|chúng ta còn có cách giải trí nào khác nữa đâu .|chúng ta còn có cách giải trí nào khác nữa đâu .
+/content/tts/data_preprocess/data_norm/06082.wav|anh tự nhủ và rất thích thú với ý nghĩ đó .|anh tự nhủ và rất thích thú với ý nghĩ đó .
+/content/tts/data_preprocess/data_norm/13673.wav|anh leo lên cầu cầm lấy cuộn dây trong tay ông cụ rồi đi giật lùi thật nhanh .|anh leo lên cầu cầm lấy cuộn dây trong tay ông cụ rồi đi giật lùi thật nhanh .
+/content/tts/data_preprocess/data_norm/00697.wav|thì cái đó không phải lỗi lầm tại tôi .|thì cái đó không phải lỗi lầm tại tôi .
+/content/tts/data_preprocess/data_norm/02961.wav|cô gái nói mà quay đi phía khác .|cô gái nói mà quay đi phía khác .
+/content/tts/data_preprocess/data_norm/17267.wav|nó nhìn lên sườn đồi có những xác chết nằm rải rác gần đỉnh .|nó nhìn lên sườn đồi có những xác chết nằm rải rác gần đỉnh .
+/content/tts/data_preprocess/data_merge_norm/19129_18389.wav|anh nhìn con suối và nhớ lại lúc ở dưới gầm cầu , nơi đây khắp cánh rừng đều có quân đội .|anh nhìn con suối và nhớ lại lúc ở dưới gầm cầu , nơi đây khắp cánh rừng đều có quân đội .
+/content/tts/data_preprocess/data_norm/15275.wav|nó nhìn hai hàng nông dân rồi nhổ toẹt xuống đất .|nó nhìn hai hàng nông dân rồi nhổ toẹt xuống đất .
+/content/tts/data_preprocess/data_norm/09635.wav|em muốn đi giữ bệ súng và yêu anh ngay trong khi súng bắn .|em muốn đi giữ bệ súng và yêu anh ngay trong khi súng bắn .
+/content/tts/data_preprocess/data_norm/13629.wav|nghĩa là nguồn gốc đều thế cả .|nghĩa là nguồn gốc đều thế cả .
+/content/tts/data_preprocess/data_norm/06819.wav|giờ mụ nhìn thấy con người thấp đen đó mệt mỏi và không cười đi về phía hàng rào .|giờ mụ nhìn thấy con người thấp đen đó mệt mỏi và không cười đi về phía hàng rào .
+/content/tts/data_preprocess/data_norm/14237.wav|anh bỏ dây cương ngựa xuống và dùng con ngựa thồ lên trên sườn núi đổ xuống đường .|anh bỏ dây cương ngựa xuống và dùng con ngựa thồ lên trên sườn núi đổ xuống đường .
+/content/tts/data_preprocess/data_norm/14826.wav|trên thế giới không có một nước nào như nước tây ban nha .|trên thế giới không có một nước nào như nước tây ban nha .
+/content/tts/data_preprocess/data_norm/00698.wav|tôi rất muốn được là một người sinh trưởng ở đây .|tôi rất muốn được là một người sinh trưởng ở đây .
+/content/tts/data_preprocess/data_norm/18369.wav|và bây giờ thì yêu cầu anh để cho tôi yên .|và bây giờ thì yêu cầu anh để cho tôi yên .
+/content/tts/data_preprocess/data_norm/17552.wav|mặc dù những đường khía đã mòn và nòng súng bắn súng bị mài vào bao da đã nhẵn lỳ .|mặc dù những đường khía đã mòn và nòng súng bắn súng bị mài vào bao da đã nhẵn lỳ .
+/content/tts/data_preprocess/data_norm/04135.wav|hay là như người ta đứng để cho đám rước ảnh thánh đi qua .|hay là như người ta đứng để cho đám rước ảnh thánh đi qua .
+/content/tts/data_preprocess/data_norm/03729.wav|tôi còn có cả ngày để suy nghĩ việc đó .|tôi còn có cả ngày để suy nghĩ việc đó .
+/content/tts/data_preprocess/data_norm/02418.wav|cô gái thò đầu qua cái trăng treo ở cửa hang .|cô gái thò đầu qua cái trăng treo ở cửa hang .
+/content/tts/data_preprocess/data_norm/06172.wav|và khi nào anh bị thương em sẽ săn sóc anh băng vết thương cho anh và rửa mặt cho anh cho anh ăn .|và khi nào anh bị thương em sẽ săn sóc anh băng vết thương cho anh và rửa mặt cho anh cho anh ăn .
+/content/tts/data_preprocess/data_norm/03475.wav|hắn nói sau đó đêm đã khuya tôi thấy hắn thức dậy và nghe thấy hắn khóc .|hắn nói sau đó đêm đã khuya tôi thấy hắn thức dậy và nghe thấy hắn khóc .
+/content/tts/data_preprocess/data_norm/09263.wav|cho nên anh bạn này có thể đối với một vài việc nào đó thì anh cũng biết .|cho nên anh bạn này có thể đối với một vài việc nào đó thì anh cũng biết .
+/content/tts/data_preprocess/data_norm/03922.wav|người đàn bà nói nhiều lắm toàn những chuyện xấu kể cả những cái gọi là vẻ vang .|người đàn bà nói nhiều lắm toàn những chuyện xấu kể cả những cái gọi là vẻ vang .
+/content/tts/data_preprocess/data_norm/18481.wav|khi ta chỉ huy cuộc tấn công đó .|khi ta chỉ huy cuộc tấn công đó .
+/content/tts/data_preprocess/data_norm/02329.wav|tôi đã đâm chết nó rất gọn ghẽ hiểu chưa không ai có thể đâm khéo hơn thế được .|tôi đã đâm chết nó rất gọn ghẽ hiểu chưa không ai có thể đâm khéo hơn thế được .
+/content/tts/data_preprocess/data_norm/06164.wav|ngoài việc bắn anh ra còn việc gì nữa nào .|ngoài việc bắn anh ra còn việc gì nữa nào .
+/content/tts/data_preprocess/data_norm/18403.wav|ăn rết nhà gỗ mới đi theo người lái xe .|ăn rết nhà gỗ mới đi theo người lái xe .
+/content/tts/data_preprocess/data_norm/18571.wav|nhưng tôi nhớ là khi đánh tàu cái đèn của chiếc đầu máy đã bay qua đầu tôi và các mảnh thép bay tới tấp xung quanh như chim én .|nhưng tôi nhớ là khi đánh tàu cái đèn của chiếc đầu máy đã bay qua đầu tôi và các mảnh thép bay tới tấp xung quanh như chim én .
+/content/tts/data_preprocess/data_norm/17573.wav|tôi đoán rằng có lẽ cậu muốn giữ khẩu súng .|tôi đoán rằng có lẽ cậu muốn giữ khẩu súng .
+/content/tts/data_preprocess/data_norm/10405.wav|và bụng ấm lên một cách khoan khoái dễ chịu .|và bụng ấm lên một cách khoan khoái dễ chịu .
+/content/tts/data_preprocess/data_norm/16859.wav|có thể là bọn kỵ binh sẽ tới tìm người của chúng nó mà không định vào tới đây .|có thể là bọn kỵ binh sẽ tới tìm người của chúng nó mà không định vào tới đây .
+/content/tts/data_preprocess/data_norm/02111.wav|còn ít quá không tôi cũng mời anh .|còn ít quá không tôi cũng mời anh .
+/content/tts/data_preprocess/data_norm/16024.wav|bác có thể tìm cách rút lui ban ngày được không .|bác có thể tìm cách rút lui ban ngày được không .
+/content/tts/data_preprocess/data_norm/08574.wav|về cả hai mặc lời nói và hành động mới đây của nó .|về cả hai mặc lời nói và hành động mới đây của nó .
+/content/tts/data_preprocess/data_norm/00549.wav|anh còn thấy một lối mòn trên cỏ .|anh còn thấy một lối mòn trên cỏ .
+/content/tts/data_preprocess/data_norm/16680.wav|hy vọng là lần này không quân sẽ xuất trận đúng giờ .|hy vọng là lần này không quân sẽ xuất trận đúng giờ .
+/content/tts/data_preprocess/data_norm/13296.wav|đồng chí đang chuẩn bị cuộc tấn công đó hả .|đồng chí đang chuẩn bị cuộc tấn công đó hả .
+/content/tts/data_preprocess/data_norm/14249.wav|rồi anh lên tới sườn núi êm .|rồi anh lên tới sườn núi êm .
+/content/tts/data_preprocess/nsw_norm/06096.wav|em sẽ báo bi-la rầy em phải làm gì để trông nom săn sóc một người đàn ông cho tốt .|em sẽ báo bi-la rầy em phải làm gì để trông nom săn sóc một người đàn ông cho tốt .
+/content/tts/data_preprocess/data_norm/05750.wav|dù cho điều đó nghe có vẻ tầm thường đến thế nào đi nữa .|dù cho điều đó nghe có vẻ tầm thường đến thế nào đi nữa .
+/content/tts/data_preprocess/data_norm/11304.wav|thế rồi tiếng nói lại quát lên .|thế rồi tiếng nói lại quát lên .
+/content/tts/data_preprocess/data_norm/17366.wav|so đo mực đun lên chị đang cười khẽ ghé mắt nhìn qua mông con ngựa .|so đo mực đun lên chị đang cười khẽ ghé mắt nhìn qua mông con ngựa .
+/content/tts/data_preprocess/data_norm/09097.wav|từ đôi khi phải đánh thức ông ta vậy thì thật là khó khăn .|từ đôi khi phải đánh thức ông ta vậy thì thật là khó khăn .
+/content/tts/data_preprocess/data_norm/06322.wav|những lời nói đó bằng tiếng tây ban nha .|những lời nói đó bằng tiếng tây ban nha .
+/content/tts/data_preprocess/data_norm/10785.wav|thế nằm trên cái giường ấy em vẫn mặc chiếc áo cưới của em chứ .|thế nằm trên cái giường ấy em vẫn mặc chiếc áo cưới của em chứ .
+/content/tts/data_preprocess/data_norm/10138.wav|lão bắn vào bọn người đang leo lên đồi buộc chúng phải tản ra tìm chỗ nấp .|lão bắn vào bọn người đang leo lên đồi buộc chúng phải tản ra tìm chỗ nấp .
+/content/tts/data_preprocess/data_norm/04353.wav|nhưng nhạo báng một người đứng đắn như đồng ghi nê mô thì ta không có quyền .|nhưng nhạo báng một người đứng đắn như đồng ghi nê mô thì ta không có quyền .
+/content/tts/data_preprocess/data_norm/13539.wav|rồi buộc chặt và lấy kềm xoắn dây lại .|rồi buộc chặt và lấy kềm xoắn dây lại .
+/content/tts/data_preprocess/data_norm/11909.wav|còn ba mày thì hèn nhát kia mà .|còn ba mày thì hèn nhát kia mà .
+/content/tts/data_preprocess/data_norm/10901.wav|và lúc đầu chỉ cần cắt cho gọn chờ cho tóc mọc dài thôi .|và lúc đầu chỉ cần cắt cho gọn chờ cho tóc mọc dài thôi .
+/content/tts/data_preprocess/data_norm/11334.wav|tôi nói với các anh biết bao nhiêu lần nữa là tôi chỉ có một mình thôi .|tôi nói với các anh biết bao nhiêu lần nữa là tôi chỉ có một mình thôi .
+/content/tts/data_preprocess/data_norm/17588.wav|súp giữ hai con ngựa còn anh leo ra một hòn đá rồi cúi xuống .|súp giữ hai con ngựa còn anh leo ra một hòn đá rồi cúi xuống .
+/content/tts/data_preprocess/data_norm/10450.wav|chúng nó buộc nằm trên yên mặt úp sấp hai tay buông thõng .|chúng nó buộc nằm trên yên mặt úp sấp hai tay buông thõng .
+/content/tts/data_preprocess/data_norm/03343.wav|em trông chúng nó giống cái gì nào .|em trông chúng nó giống cái gì nào .
+/content/tts/data_preprocess/data_norm/15980.wav|lão không còn dùng thứ tiếng tây ban nha lơ lớ nữa .|lão không còn dùng thứ tiếng tây ban nha lơ lớ nữa .
+/content/tts/data_preprocess/data_norm/13577.wav|như thế có nghĩa là trong xưởng cưa có người ra cái chỗ mà cưa chết tiệt ấy nữa .|như thế có nghĩa là trong xưởng cưa có người ra cái chỗ mà cưa chết tiệt ấy nữa .
+/content/tts/data_preprocess/data_norm/05646.wav|anh mà thích hơn nữa thì anh chẳng còn làm được cái gì nữa đâu .|anh mà thích hơn nữa thì anh chẳng còn làm được cái gì nữa đâu .
+/content/tts/data_preprocess/data_norm/03352.wav|bên ta không bao giờ vượt qua mặt trận đuổi theo đánh trúng không có đủ máy bay để làm liều như vậy được .|bên ta không bao giờ vượt qua mặt trận đuổi theo đánh trúng không có đủ máy bay để làm liều như vậy được .
+/content/tts/data_preprocess/data_norm/10296.wav|nhưng quả đồi chết tiệt như một vết loét này .|nhưng quả đồi chết tiệt như một vết loét này .
+/content/tts/data_preprocess/data_norm/17112.wav|anh không sợ gì để tôi phải lây cả .|anh không sợ gì để tôi phải lây cả .
+/content/tts/data_preprocess/data_norm/04648.wav|cố nhiên trên hết là nước tây ban nha rồi đến bộ lạc của họ đến tỉnh của họ rồi đến xóm làng của họ gia đình họ .|cố nhiên trên hết là nước tây ban nha rồi đến bộ lạc của họ đến tỉnh của họ rồi đến xóm làng của họ gia đình họ .
+/content/tts/data_preprocess/data_norm/04203.wav|nhưng cho một thằng nữa ra đi tiếp tục đi cho một thằng khác nữa ra .|nhưng cho một thằng nữa ra đi tiếp tục đi cho một thằng khác nữa ra .
+/content/tts/data_preprocess/data_norm/16824.wav|chiến tranh đã đến với những con người lười nhác này .|chiến tranh đã đến với những con người lười nhác này .
+/content/tts/data_preprocess/data_norm/17658.wav|cái điều mà người kia đã không bao giờ dạy mình .|cái điều mà người kia đã không bao giờ dạy mình .
+/content/tts/data_preprocess/data_norm/04656.wav|cố nhiên là họ chống lại ta họ chống lại ta luôn nhưng họ thì bao giờ cũng chống lại tất cả mọi người .|cố nhiên là họ chống lại ta họ chống lại ta luôn nhưng họ thì bao giờ cũng chống lại tất cả mọi người .
+/content/tts/data_preprocess/data_norm/18193.wav|nếu không có chiến tranh thì mình sẽ buộc găng tay vào các bụi cây này rồi ban ngày sẽ quay lại tìm tố của nó .|nếu không có chiến tranh thì mình sẽ buộc găng tay vào các bụi cây này rồi ban ngày sẽ quay lại tìm tố của nó .
+/content/tts/data_preprocess/nsw_norm/10875.wav|nhưng lần này nói chuyện về ma-rít anh không còn thấy cái cảm giác mơ màng trong ảo tưởng nữa .|nhưng lần này nói chuyện về ma-rít anh không còn thấy cái cảm giác mơ màng trong ảo tưởng nữa .
+/content/tts/data_preprocess/data_norm/01109.wav|anh vẫn đang nhìn theo cô gái bưng cái mâm sắt nặng cúi đầu bước vào trong hang .|anh vẫn đang nhìn theo cô gái bưng cái mâm sắt nặng cúi đầu bước vào trong hang .
+/content/tts/data_preprocess/data_norm/05904.wav|có lẽ là một cái mà lúc này cuộc sống dành riêng cho mình .|có lẽ là một cái mà lúc này cuộc sống dành riêng cho mình .
+/content/tts/data_preprocess/data_norm/04727.wav|có lẽ ta mơ thế hoặc tưởng tượng ra như thế thôi và không hề có chuyện gì xảy ra như thế cả .|có lẽ ta mơ thế hoặc tưởng tượng ra như thế thôi và không hề có chuyện gì xảy ra như thế cả .
+/content/tts/data_preprocess/data_norm/14576.wav|trong khi chúng ta vừa thấy trên trời đủ số máy bay để giết sạch tất cả chúng ta .|trong khi chúng ta vừa thấy trên trời đủ số máy bay để giết sạch tất cả chúng ta .
+/content/tts/data_preprocess/data_norm/10443.wav|có một cái gói buộc ngang một cái yên lúc đó tôi không hiểu là cái gì .|có một cái gói buộc ngang một cái yên lúc đó tôi không hiểu là cái gì .
+/content/tts/data_preprocess/data_norm/15960.wav|vì là nói vào ngồi xuống ghế rộng trở lại bình tĩnh và hết giận dữ .|vì là nói vào ngồi xuống ghế rộng trở lại bình tĩnh và hết giận dữ .
+/content/tts/data_preprocess/data_norm/14185.wav|cô quay lại nhìn anh nhưng không nói gì .|cô quay lại nhìn anh nhưng không nói gì .
+/content/tts/data_preprocess/data_norm/17499.wav|chúng bay theo một hàng dọc và cứ mỗi giây qua .|chúng bay theo một hàng dọc và cứ mỗi giây qua .
+/content/tts/data_preprocess/data_norm/09024.wav|rồi anh sẽ từ khách sạn gây lo về với cô .|rồi anh sẽ từ khách sạn gây lo về với cô .
+/content/tts/data_preprocess/data_norm/11155.wav|anh cầm chiếc đèn pin soi để tránh giẫm phải những người đang ngủ trên mặt đất .|anh cầm chiếc đèn pin soi để tránh giẫm phải những người đang ngủ trên mặt đất .
+/content/tts/data_preprocess/data_norm/15728.wav|anh đừng có ngày nào cũng giết người nữa .|anh đừng có ngày nào cũng giết người nữa .
+/content/tts/data_preprocess/data_norm/06444.wav|và bây giờ thì mụ đàn bà này không những đã buộc cô gái phải nói ra trong khi cổ không muốn nói .|và bây giờ thì mụ đàn bà này không những đã buộc cô gái phải nói ra trong khi cổ không muốn nói .
+/content/tts/data_preprocess/data_norm/17277.wav|tên sĩ quan thứ nhất bỗng hét lên và đứng dậy đầu thò hẳn ra bên trên tảng đá đứng thẳng thế này .|tên sĩ quan thứ nhất bỗng hét lên và đứng dậy đầu thò hẳn ra bên trên tảng đá đứng thẳng thế này .
+/content/tts/data_preprocess/data_norm/06891.wav|và đến bây giờ hắn cũng không giữ được thức ăn trong dạ dày .|và đến bây giờ hắn cũng không giữ được thức ăn trong dạ dày .
+/content/tts/data_preprocess/nsw_norm/09979.wav|hắn chỉ về phía di-bi-ti-vô .|hắn chỉ về phía di-bi-ti-vô .
+/content/tts/data_preprocess/data_norm/16624.wav|và cô gái dụi đầu vào cằm anh .|và cô gái dụi đầu vào cằm anh .
+/content/tts/data_preprocess/data_norm/17205.wav|rồi anh tiếp tục đọc các bức thư .|rồi anh tiếp tục đọc các bức thư .
+/content/tts/data_preprocess/data_norm/03894.wav|bây giờ thì tôi đã qua cái thời đó rồi nhưng dù sao thì cái đó vẫn còn có thể xảy ra được .|bây giờ thì tôi đã qua cái thời đó rồi nhưng dù sao thì cái đó vẫn còn có thể xảy ra được .
+/content/tts/data_preprocess/data_norm/07523.wav|mình thấy ông cụ mình rất vui .|mình thấy ông cụ mình rất vui .
+/content/tts/data_preprocess/data_norm/07194.wav|anh có thể nhận định được ý nghĩa của những chiếc xe ô tô đã đi lên đèo .|anh có thể nhận định được ý nghĩa của những chiếc xe ô tô đã đi lên đèo .
+/content/tts/data_preprocess/data_norm/02927.wav|bỗng anh thấy một bàn tay đặt lên vai anh và anh quay phắt lại .|bỗng anh thấy một bàn tay đặt lên vai anh và anh quay phắt lại .
+/content/tts/data_preprocess/data_norm/02853.wav|rồi cô lại có một chàng say rượu như tôi thôi .|rồi cô lại có một chàng say rượu như tôi thôi .
+/content/tts/data_preprocess/data_norm/07215.wav|nhưng đêm mai là chúng ta sẽ giết hết chúng nó .|nhưng đêm mai là chúng ta sẽ giết hết chúng nó .
+/content/tts/data_preprocess/data_norm/08358.wav|chưa bao giờ chúng mày thế tao nói nhiều như thế này .|chưa bao giờ chúng mày thế tao nói nhiều như thế này .
+/content/tts/data_preprocess/data_norm/17723.wav|không biết ông mình cả đời không bao giờ chịu ngồi cùng bàn với bộ đảng viên đảng dân chủ .|không biết ông mình cả đời không bao giờ chịu ngồi cùng bàn với bộ đảng viên đảng dân chủ .
+/content/tts/data_preprocess/data_norm/08714.wav|vậy mà nó nhạy cảm như một chiếc phong vũ biểu tốt .|vậy mà nó nhạy cảm như một chiếc phong vũ biểu tốt .
+/content/tts/data_preprocess/nsw_norm/04239.wav|cho cái thằng đông-vy-lớp-mô này yên ổn mà về thôi .|cho cái thằng đông-vy-lớp-mô này yên ổn mà về thôi .
+/content/tts/data_preprocess/data_norm/03593.wav|anh bắt đầu mến tất cả mọi người rồi đấy .|anh bắt đầu mến tất cả mọi người rồi đấy .
+/content/tts/data_preprocess/data_norm/04295.wav|thì một người đàn bà đứng trên bao lơn căng buồn nó ở kêu thét lên .|thì một người đàn bà đứng trên bao lơn căng buồn nó ở kêu thét lên .
+/content/tts/data_preprocess/data_norm/07943.wav|nhưng mà nếu chúng nó chưa nổi loạn thì các anh chưa có thể thủ tiêu được chúng nó phải không .|nhưng mà nếu chúng nó chưa nổi loạn thì các anh chưa có thể thủ tiêu được chúng nó phải không .
+/content/tts/data_preprocess/data_norm/19085.wav|có lẽ mình đã trông chờ ở đó nhiều quá .|có lẽ mình đã trông chờ ở đó nhiều quá .
+/content/tts/data_preprocess/data_norm/13829.wav|đồng thời ông cố nhìn qua chiếc cầu xem có gì xuất hiện ra ở chỗ con đường hoặc không .|đồng thời ông cố nhìn qua chiếc cầu xem có gì xuất hiện ra ở chỗ con đường hoặc không .
+/content/tts/data_preprocess/data_norm/00461.wav|tôi đã được nghe người ta nói nhiều cái tốt về anh .|tôi đã được nghe người ta nói nhiều cái tốt về anh .
+/content/tts/data_preprocess/data_norm/06802.wav|căng thẳng và người đấu bò thấp đen mắt không lúc nào rời khỏi chỗ lưỡi kiếm đâm vào .|căng thẳng và người đấu bò thấp đen mắt không lúc nào rời khỏi chỗ lưỡi kiếm đâm vào .
+/content/tts/data_preprocess/data_norm/06132.wav|chị ấy bảo là ở đây có một mạch máu to và lấy lưỡi dao rạch từ chốn này xuống thì không thể nào chệch được .|chị ấy bảo là ở đây có một mạch máu to và lấy lưỡi dao rạch từ chốn này xuống thì không thể nào chệch được .
+/content/tts/data_preprocess/data_norm/13494.wav|những chiếc ba lô nặng trĩu kéo tay anh xuống tưởng chừng như đến đứt gân ở vai anh chệnh choạng chạy từ trên sườn núi dốc xuống đường .|những chiếc ba lô nặng trĩu kéo tay anh xuống tưởng chừng như đến đứt gân ở vai anh chệnh choạng chạy từ trên sườn núi dốc xuống đường .
+/content/tts/data_preprocess/data_norm/04486.wav|đừng nói cái chuyện đó với tôi đồng chí đánh mìn này những máy bay đó là máy bay gì thế .|đừng nói cái chuyện đó với tôi đồng chí đánh mìn này những máy bay đó là máy bay gì thế .
+/content/tts/data_preprocess/data_norm/09985.wav|ít nói nhưng có thể tin cậy được .|ít nói nhưng có thể tin cậy được .
+/content/tts/data_preprocess/data_norm/04042.wav|quân giết nông dân mày có thể bắn chết cả mẹ mày được .|quân giết nông dân mày có thể bắn chết cả mẹ mày được .
+/content/tts/data_preprocess/data_norm/12032.wav|hắn chìa ngón tay trỏ bên phải cho họ xem rồi chia ngón tay trỏ bên trái .|hắn chìa ngón tay trỏ bên phải cho họ xem rồi chia ngón tay trỏ bên trái .
+/content/tts/data_preprocess/split_long_audio_norm/03146_5.wav|ấm áp .|ấm áp .
+/content/tts/data_preprocess/data_merge_norm/01438_11838.wav|tôi nói thế chỉ là để nói lên một lời hứa thôi , có lẽ mình nên dùng cho mỗi gói mìn mỗi loại một quả .|tôi nói thế chỉ là để nói lên một lời hứa thôi , có lẽ mình nên dùng cho mỗi gói mìn mỗi loại một quả .
+/content/tts/data_preprocess/data_norm/15552.wav|đám đông giẫm lên chúng tôi để xông vào trong phòng của tòa thị chính .|đám đông giẫm lên chúng tôi để xông vào trong phòng của tòa thị chính .
+/content/tts/data_preprocess/data_norm/12716.wav|mình cho rằng mọi đồng minh nào cũng vậy .|mình cho rằng mọi đồng minh nào cũng vậy .
+/content/tts/data_preprocess/data_norm/16416.wav|tất cả những cái đó thật là tởm quá đi mất .|tất cả những cái đó thật là tởm quá đi mất .
+/content/tts/data_preprocess/data_norm/10742.wav|trong kinh thánh ai đã xuất tinh khí gia đức nhỉ .|trong kinh thánh ai đã xuất tinh khí gia đức nhỉ .
+/content/tts/data_preprocess/data_norm/16419.wav|chị không mong đợi là anh sẽ làm những việc mất nhân cách đó thật chứ .|chị không mong đợi là anh sẽ làm những việc mất nhân cách đó thật chứ .
+/content/tts/data_preprocess/data_norm/06817.wav|hắn vẫn còn đứng đó thì con bò không đứng vững được nữa đổ kềnh ra chết .|hắn vẫn còn đứng đó thì con bò không đứng vững được nữa đổ kềnh ra chết .
+/content/tts/data_preprocess/data_norm/14104.wav|và anh nghĩ thật tốt tốt lắm mình không ngờ lại có thể như thế được .|và anh nghĩ thật tốt tốt lắm mình không ngờ lại có thể như thế được .
+/content/tts/data_preprocess/data_norm/17914.wav|chúng nó đã bắn chết mẹ em cùng với ba em vì chính kiến của ba em là một người cộng hòa .|chúng nó đã bắn chết mẹ em cùng với ba em vì chính kiến của ba em là một người cộng hòa .
+/content/tts/data_preprocess/data_norm/06793.wav|hãy thử xem có thể giết nó như thế này được không .|hãy thử xem có thể giết nó như thế này được không .
+/content/tts/data_preprocess/data_norm/15469.wav|rồi lật hai cái bàn và vài cái ghế .|rồi lật hai cái bàn và vài cái ghế .
+/content/tts/data_preprocess/data_norm/15650.wav|em cho là trước đó nó luôn luôn giữ được nhưng cách đó chứ .|em cho là trước đó nó luôn luôn giữ được nhưng cách đó chứ .
+/content/tts/data_preprocess/data_norm/00481.wav|nếu lỡ trong khu vực này thì là việc của tôi .|nếu lỡ trong khu vực này thì là việc của tôi .
+/content/tts/data_preprocess/data_norm/01625.wav|tên lính gác đứng ở đầu bên kia quay lưng về phía họ .|tên lính gác đứng ở đầu bên kia quay lưng về phía họ .
+/content/tts/data_preprocess/data_norm/02040.wav|ba lô ngồi cạnh bàn với ba người lạ mặt mà anh không biết .|ba lô ngồi cạnh bàn với ba người lạ mặt mà anh không biết .
+/content/tts/data_preprocess/data_norm/04655.wav|trừ khi nào họ chống lại anh .|trừ khi nào họ chống lại anh .
+/content/tts/data_preprocess/data_norm/17618.wav|trừ phi là có sương mù dày đặc buổi sáng .|trừ phi là có sương mù dày đặc buổi sáng .
+/content/tts/data_preprocess/data_norm/00517.wav|ông cụ nhổ toẹt xuống đất rồi lắc đầu .|ông cụ nhổ toẹt xuống đất rồi lắc đầu .
+/content/tts/data_preprocess/data_norm/06072.wav|mày còn phải sống đến tuổi nào nữa mới hiểu được điều đó .|mày còn phải sống đến tuổi nào nữa mới hiểu được điều đó .
+/content/tts/data_preprocess/data_norm/12810.wav|thì gặp một trạm kiểm soát nhưng khi đưa cho người lính gác của chạm tờ thông hành của trung tá mỹ đình đa cấp .|thì gặp một trạm kiểm soát nhưng khi đưa cho người lính gác của chạm tờ thông hành của trung tá mỹ đình đa cấp .
+/content/tts/data_preprocess/data_norm/08423.wav|nhưng tao sẽ quay về ngay thôi .|nhưng tao sẽ quay về ngay thôi .
+/content/tts/data_preprocess/data_norm/03517.wav|tôi tin tưởng ở chế độ cộng hòa với một lòng nhiệt thành của những kẻ đi đạo tin các chuyện huyền bí của đạo .|tôi tin tưởng ở chế độ cộng hòa với một lòng nhiệt thành của những kẻ đi đạo tin các chuyện huyền bí của đạo .
+/content/tts/data_preprocess/data_norm/08579.wav|lúc này mụ quay lại gần bàn .|lúc này mụ quay lại gần bàn .
+/content/tts/data_preprocess/data_norm/06450.wav|đó chỉ là vì mụ muốn cố bám lấy cuộc sống .|đó chỉ là vì mụ muốn cố bám lấy cuộc sống .
+/content/tts/data_preprocess/data_norm/19015.wav|dù sao cũng thật là may mà dây thần kinh bị dập .|dù sao cũng thật là may mà dây thần kinh bị dập .
+/content/tts/data_preprocess/data_norm/04241.wav|vì rằng nhân dân thành phố này rất tốt .|vì rằng nhân dân thành phố này rất tốt .
+/content/tts/data_preprocess/data_norm/00236.wav|không nên lúc nào cũng nhất định cho là như thế .|không nên lúc nào cũng nhất định cho là như thế .
+/content/tts/data_preprocess/data_norm/02919.wav|anh xoay mình đè phải khẩu súng lục buộc vào cổ tay anh bằng một cái dây da .|anh xoay mình đè phải khẩu súng lục buộc vào cổ tay anh bằng một cái dây da .
+/content/tts/data_preprocess/data_norm/13708.wav|hắn có vẻ bị thương ở bệnh nhi thấy hai tay hắn ôm lấy chỗ đó trong khi hai người kia đã đứng tuổi .|hắn có vẻ bị thương ở bệnh nhi thấy hai tay hắn ôm lấy chỗ đó trong khi hai người kia đã đứng tuổi .
+/content/tts/data_preprocess/data_norm/09691.wav|ước lượng chiều cao của hai dãy núi đá hai bên .|ước lượng chiều cao của hai dãy núi đá hai bên .
+/content/tts/data_preprocess/data_norm/14296.wav|các khớp xương mới trong chân anh làm cho chân anh lủng lẳng lắc lư trên mặt đất gồ ghề .|các khớp xương mới trong chân anh làm cho chân anh lủng lẳng lắc lư trên mặt đất gồ ghề .
+/content/tts/data_preprocess/data_norm/01973.wav|ừ và bảo hộ cho người ra đây một cậu nào biết khẩu lệnh đấy .|ừ và bảo hộ cho người ra đây một cậu nào biết khẩu lệnh đấy .
+/content/tts/data_preprocess/data_norm/13607.wav|thế mà nó đem ném xuống con sông này .|thế mà nó đem ném xuống con sông này .
+/content/tts/data_preprocess/data_norm/17634.wav|anh nhận ra rằng nếu quả có gặp nhau đi chăng nữa .|anh nhận ra rằng nếu quả có gặp nhau đi chăng nữa .
+/content/tts/data_preprocess/data_norm/17299.wav|mặc nó đó gây nó có bộ ria vàng kiểu ăng lê và cặp mắt như có một vẻ gì lệch lạc .|mặc nó đó gây nó có bộ ria vàng kiểu ăng lê và cặp mắt như có một vẻ gì lệch lạc .
+/content/tts/data_preprocess/data_norm/17685.wav|đừng có nói đến mầm mống tốt và những cái khác tương tự dội .|đừng có nói đến mầm mống tốt và những cái khác tương tự dội .
+/content/tts/data_preprocess/data_norm/06716.wav|đối với anh một cơn bão tuyết một trận mưa rào một trận bão nhiệt đới hoặc một cơn dông có sấm sét vào mùa hè trên núi .|đối với anh một cơn bão tuyết một trận mưa rào một trận bão nhiệt đới hoặc một cơn dông có sấm sét vào mùa hè trên núi .
+/content/tts/data_preprocess/nsw_norm/09021.wav|nhưng anh đã đặt ra kế hoạch ấy trước khi gặp ma-ri-a .|nhưng anh đã đặt ra kế hoạch ấy trước khi gặp ma-ri-a .
+/content/tts/data_preprocess/data_norm/10208.wav|có thể là không gì chắc là chẳng bao lâu nữa máy bay sẽ tới .|có thể là không gì chắc là chẳng bao lâu nữa máy bay sẽ tới .
+/content/tts/data_preprocess/data_norm/15064.wav|thì họ xấu hổ là đã ăn mặc không phải lỗi .|thì họ xấu hổ là đã ăn mặc không phải lỗi .
+/content/tts/data_preprocess/data_norm/09738.wav|đặt nó ở chỗ kia thì vô tác dụng .|đặt nó ở chỗ kia thì vô tác dụng .
+/content/tts/data_preprocess/data_norm/15554.wav|tớ say rượu ngồi trước mặt tôi hai tay ôm lấy chỗ bị tôi đánh .|tớ say rượu ngồi trước mặt tôi hai tay ôm lấy chỗ bị tôi đánh .
+/content/tts/data_preprocess/data_norm/12506.wav|vào lúc này đồng chí trung tá mặc quần áo ngủ bước vào .|vào lúc này đồng chí trung tá mặc quần áo ngủ bước vào .
+/content/tts/data_preprocess/data_norm/14785.wav|phải cái này thì anh có thể làm được .|phải cái này thì anh có thể làm được .
+/content/tts/data_preprocess/data_norm/13310.wav|nhưng đồng chí mát xa này có phải trước kia đồng chí đã có lần là thủy sư đô đốc phải không .|nhưng đồng chí mát xa này có phải trước kia đồng chí đã có lần là thủy sư đô đốc phải không .
+/content/tts/data_preprocess/data_norm/01557.wav|và khi anh vẽ xong cụ mới thấy nhẹ người .|và khi anh vẽ xong cụ mới thấy nhẹ người .
+/content/tts/data_preprocess/data_norm/10653.wav|đối với đu gian thì học và hiếu thật là dễ dàng và giản dị như một cậu bé thần đồng về học đánh cờ vậy .|đối với đu gian thì học và hiếu thật là dễ dàng và giản dị như một cậu bé thần đồng về học đánh cờ vậy .
+/content/tts/data_preprocess/data_norm/18383.wav|trong lúc chiếc mô tô leo lên con đường có nhiều chỗ hoặc vòng vèo .|trong lúc chiếc mô tô leo lên con đường có nhiều chỗ hoặc vòng vèo .
+/content/tts/data_preprocess/data_norm/13650.wav|anh nhìn xuống và thấy con suối chảy ở bên dưới qua các tảng đá sủi bọt trắng xóa rồi đổ vào một khoảng nước trong .|anh nhìn xuống và thấy con suối chảy ở bên dưới qua các tảng đá sủi bọt trắng xóa rồi đổ vào một khoảng nước trong .
+/content/tts/data_preprocess/data_norm/13735.wav|lúc đó chúng ta sẽ cùng giật nổ chiếc cầu .|lúc đó chúng ta sẽ cùng giật nổ chiếc cầu .
+/content/tts/data_preprocess/data_norm/16161.wav|điều đó cho phép người ta tham gia vào một cái gì đó mà người ta có thể hoàn toàn tin tưởng .|điều đó cho phép người ta tham gia vào một cái gì đó mà người ta có thể hoàn toàn tin tưởng .
+/content/tts/data_preprocess/data_norm/08531.wav|tôi không cho là nó có ý định đó đâu .|tôi không cho là nó có ý định đó đâu .
+/content/tts/data_preprocess/data_norm/12526.wav|trung tá liếc nhìn qua tờ giấy nhìn anh toét gật đầu và mỉm cười rồi hau háu và chăm chú nhìn bức thư .|trung tá liếc nhìn qua tờ giấy nhìn anh toét gật đầu và mỉm cười rồi hau háu và chăm chú nhìn bức thư .
+/content/tts/data_preprocess/data_norm/03839.wav|thôi đi chị mà không xấu .|thôi đi chị mà không xấu .
+/content/tts/data_preprocess/nsw_norm/14184.wav|trước khi tới đường em vượt lên trên bi-la và phóng nhanh lên sườn núi kia .|trước khi tới đường em vượt lên trên bi-la và phóng nhanh lên sườn núi kia .
+/content/tts/data_preprocess/data_norm/10435.wav|bây giờ cụ cho biết có những gì nữa đã đi lên phía đỉnh đèo .|bây giờ cụ cho biết có những gì nữa đã đi lên phía đỉnh đèo .
+/content/tts/data_preprocess/data_norm/06004.wav|và nghĩ rằng phải thừa nhận đã mất những cái đó rồi là một điều quá sức của mụ .|và nghĩ rằng phải thừa nhận đã mất những cái đó rồi là một điều quá sức của mụ .
+/content/tts/data_preprocess/data_norm/01869.wav|cô đã đỏ mặt khi anh nhìn cô và cô ngồi hai tay bó lấy gối cổ áo mở rộng bộ ngực tròn căng dưới làn áo .|cô đã đỏ mặt khi anh nhìn cô và cô ngồi hai tay bó lấy gối cổ áo mở rộng bộ ngực tròn căng dưới làn áo .
+/content/tts/data_preprocess/data_norm/06786.wav|dì đầu con bò cao hơn mắt hắn .|dì đầu con bò cao hơn mắt hắn .
+/content/tts/data_preprocess/data_norm/17949.wav|nhưng em và mọi người đều bị trói chặt .|nhưng em và mọi người đều bị trói chặt .
+/content/tts/data_preprocess/data_norm/19021.wav|và mình mong rằng trong cái đó mình đã làm được một vài việc tốt .|và mình mong rằng trong cái đó mình đã làm được một vài việc tốt .
+/content/tts/data_preprocess/data_norm/11116.wav|lúc nào cũng chõ miệng vào tất cả chúng tôi .|lúc nào cũng chõ miệng vào tất cả chúng tôi .
+/content/tts/data_preprocess/data_norm/08294.wav|lần này cô đi hẳn và anh liếc thấy cô men theo bờ tường đi về phía bếp lửa .|lần này cô đi hẳn và anh liếc thấy cô men theo bờ tường đi về phía bếp lửa .
+/content/tts/data_preprocess/data_norm/09817.wav|anh đang say hơi hành bốc lên đầu rồi .|anh đang say hơi hành bốc lên đầu rồi .
+/content/tts/data_preprocess/data_norm/03531.wav|tôi chỉ sợ không làm được nhiệm vụ như ý tôi muốn mà thôi .|tôi chỉ sợ không làm được nhiệm vụ như ý tôi muốn mà thôi .
+/content/tts/data_preprocess/nsw_norm/14781.wav|bi-la tại sao vậy sao lại không dọn cho chúng tôi ăn .|bi-la tại sao vậy sao lại không dọn cho chúng tôi ăn .
+/content/tts/data_preprocess/data_norm/12243.wav|những người tôi đưa về đây cho là tôi sẽ thành công vì tôi đã đưa họ đến .|những người tôi đưa về đây cho là tôi sẽ thành công vì tôi đã đưa họ đến .
+/content/tts/data_preprocess/data_norm/08539.wav|bị la nói may mà nói vậy thì tao cũng thấy có cái đức đáng để xử tội mày đó .|bị la nói may mà nói vậy thì tao cũng thấy có cái đức đáng để xử tội mày đó .
+/content/tts/data_preprocess/data_norm/09939.wav|ngày mai chúng ta đã phải chiến đấu rồi đối với tôi điều đó không sao .|ngày mai chúng ta đã phải chiến đấu rồi đối với tôi điều đó không sao .
+/content/tts/data_preprocess/data_norm/16077.wav|là dùng giấy tờ mệnh lệnh của anh vào cái việc ấy .|là dùng giấy tờ mệnh lệnh của anh vào cái việc ấy .
+/content/tts/data_preprocess/data_norm/12778.wav|ở nhà ga khi người lái xe nhất chiếc hòm lên anh bước lên bậc toa xe bố anh đã hôn anh để từ biệt và nói .|ở nhà ga khi người lái xe nhất chiếc hòm lên anh bước lên bậc toa xe bố anh đã hôn anh để từ biệt và nói .
+/content/tts/data_preprocess/data_norm/10117.wav|khi nhìn thấy nó lão nghĩ ngay rằng ngọn đồi hình thù như một vết mụn loét .|khi nhìn thấy nó lão nghĩ ngay rằng ngọn đồi hình thù như một vết mụn loét .
+/content/tts/data_preprocess/data_norm/13850.wav|và cô nghĩ nếu mình mà có chết thì chết làm sao cho mau chóng .|và cô nghĩ nếu mình mà có chết thì chết làm sao cho mau chóng .
+/content/tts/data_preprocess/data_norm/02473.wav|sương mù đã tan sao đã mọc .|sương mù đã tan sao đã mọc .
+/content/tts/data_preprocess/data_norm/11722.wav|ừ nhưng sau khi đã bắt đầu rồi kia .|ừ nhưng sau khi đã bắt đầu rồi kia .
+/content/tts/data_preprocess/data_norm/01922.wav|rồi bật lửa giơ lên thổi vào đầu bớt soi nhìn mặt người trẻ tuổi .|rồi bật lửa giơ lên thổi vào đầu bớt soi nhìn mặt người trẻ tuổi .
+/content/tts/data_preprocess/data_norm/10129.wav|thì em sô đô cầm cương kéo con ngựa người cúi rạp xuống leo lên .|thì em sô đô cầm cương kéo con ngựa người cúi rạp xuống leo lên .
+/content/tts/data_preprocess/data_norm/02649.wav|anh trông thấy bóng đen của những con ngựa .|anh trông thấy bóng đen của những con ngựa .
+/content/tts/data_preprocess/data_norm/10697.wav|tất cả những cái đó rồi sẽ qua đi và sẽ không còn vấn đề gì nữa đâu .|tất cả những cái đó rồi sẽ qua đi và sẽ không còn vấn đề gì nữa đâu .
+/content/tts/data_preprocess/data_norm/13189.wav|ông sẽ đưa các thư liên lạc của bọn phát xít ngay lập tức vác lốp .|ông sẽ đưa các thư liên lạc của bọn phát xít ngay lập tức vác lốp .
+/content/tts/data_preprocess/data_norm/01221.wav|nhưng mụ ta thật là thần nanh mỏ đỏ lời nói đau và rát như roi đánh bò với cái miệng đó mụ nói như lột da người ta ra xẻo thành từng mảnh ấy .|nhưng mụ ta thật là thần nanh mỏ đỏ lời nói đau và rát như roi đánh bò với cái miệng đó mụ nói như lột da người ta ra xẻo thành từng mảnh ấy .
+/content/tts/data_preprocess/data_norm/03937.wav|vấn đề là chỉ có nên kể cho em nghe và làm cho em có những cơn ác mộng hay không .|vấn đề là chỉ có nên kể cho em nghe và làm cho em có những cơn ác mộng hay không .
+/content/tts/data_preprocess/data_norm/01104.wav|anh đừng làm tôi phải đỏ mặt lên tôi không thích thế đâu .|anh đừng làm tôi phải đỏ mặt lên tôi không thích thế đâu .
+/content/tts/data_preprocess/data_norm/02508.wav|nhờ trời tôi là một người da đen chứ không phải là người ba lan .|nhờ trời tôi là một người da đen chứ không phải là người ba lan .
+/content/tts/data_preprocess/data_norm/11921.wav|anh tự nhủ đừng có cáu đó cũng chính là một lối thoát đấy .|anh tự nhủ đừng có cáu đó cũng chính là một lối thoát đấy .
+/content/tts/data_preprocess/data_norm/00032.wav|và ở đó có một cái khe rất hẹp .|và ở đó có một cái khe rất hẹp .
+/content/tts/data_preprocess/data_norm/13617.wav|nhưng anh xìn mô đã bắn nó bị thương .|nhưng anh xìn mô đã bắn nó bị thương .
+/content/tts/data_preprocess/data_norm/13870.wav|anh vẫn còn cảm thấy bàng hoàng vì ngạc nhiên thấy mình không bị chết ở cầu .|anh vẫn còn cảm thấy bàng hoàng vì ngạc nhiên thấy mình không bị chết ở cầu .
+/content/tts/data_preprocess/data_norm/01120.wav|từ đó đến nay hắn chẳng làm gì cả .|từ đó đến nay hắn chẳng làm gì cả .
+/content/tts/data_preprocess/data_norm/09733.wav|từ đó chúng tôi không tháo ra nữa .|từ đó chúng tôi không tháo ra nữa .
+/content/tts/data_preprocess/data_norm/12794.wav|anh tìm những con gà rừng trong bụi cây .|anh tìm những con gà rừng trong bụi cây .
+/content/tts/data_preprocess/data_norm/04657.wav|họ chống lại chính cả bản thân họ nữa .|họ chống lại chính cả bản thân họ nữa .
+/content/tts/data_preprocess/nsw_norm/10614.wav|chúng nó đã không dùng đến những đội quân chúng đã dùng ờ goa-đa-la-da-da .|chúng nó đã không dùng đến những đội quân chúng đã dùng ờ goa-đa-la-da-da .
+/content/tts/data_preprocess/data_norm/13644.wav|cụ an sơn mô ơi đưa thêm cho tôi mấy cái nữa .|cụ an sơn mô ơi đưa thêm cho tôi mấy cái nữa .
+/content/tts/data_preprocess/data_norm/09661.wav|anh quay lại nhìn ra thế cô đứng ở đó .|anh quay lại nhìn ra thế cô đứng ở đó .
+/content/tts/data_preprocess/data_norm/09764.wav|mình sợ rằng nó sẽ lộn lại đâm bố và bọn mình ở đây .|mình sợ rằng nó sẽ lộn lại đâm bố và bọn mình ở đây .
+/content/tts/data_preprocess/data_norm/12580.wav|tôi rất vui lòng được biết như vậy .|tôi rất vui lòng được biết như vậy .
+/content/tts/data_preprocess/data_norm/01461.wav|anh bảo phá cái cầu này khó lắm phải không .|anh bảo phá cái cầu này khó lắm phải không .
+/content/tts/data_preprocess/data_norm/13921.wav|họ không còn nghe thấy tiếng súng nổ ở bên dưới nữa .|họ không còn nghe thấy tiếng súng nổ ở bên dưới nữa .
+/content/tts/data_preprocess/data_norm/13074.wav|các anh có muốn uống gì không .|các anh có muốn uống gì không .
+/content/tts/data_preprocess/data_norm/17482.wav|đúng lúc đó thì những anh em khác trên đồi nghe thấy tiếng đầu tiên của máy bay tới .|đúng lúc đó thì những anh em khác trên đồi nghe thấy tiếng đầu tiên của máy bay tới .
+/content/tts/data_preprocess/data_norm/06248.wav|anh hỏi và cúi xuống gần mụ .|anh hỏi và cúi xuống gần mụ .
+/content/tts/data_preprocess/data_norm/01729.wav|đối với họ giết một người ngoài bố là không phải là một tội lỗi .|đối với họ giết một người ngoài bố là không phải là một tội lỗi .
+/content/tts/data_preprocess/data_norm/05958.wav|không thể tiến hành tốt vào buổi sáng được phải giữ vững một tình thế không thể giữ nổi chờ cho đến tối để rút đi .|không thể tiến hành tốt vào buổi sáng được phải giữ vững một tình thế không thể giữ nổi chờ cho đến tối để rút đi .
+/content/tts/data_preprocess/data_norm/12736.wav|anh bạn già tôi rất hiểu nhau .|anh bạn già tôi rất hiểu nhau .
+/content/tts/data_preprocess/data_merge_norm/05694_12227.wav|và thấy rõ ai là người sẽ điều khiển hai khẩu súng đó , ngựa cũng chở những túi nặng buộc trên yên .|và thấy rõ ai là người sẽ điều khiển hai khẩu súng đó , ngựa cũng chở những túi nặng buộc trên yên .
+/content/tts/data_preprocess/data_norm/19062.wav|dây chuyền đó sáng nay trước khi kết trò này bắt đầu .|dây chuyền đó sáng nay trước khi kết trò này bắt đầu .
+/content/tts/data_preprocess/data_norm/00594.wav|tựa lưng vào vòng vây anh chăm chú nhìn đàn ngựa đi quanh trong tàu .|tựa lưng vào vòng vây anh chăm chú nhìn đàn ngựa đi quanh trong tàu .
+/content/tts/data_preprocess/data_norm/04384.wav|tôi chỉ nhìn thấy có một đứa đang bị ba lô và qua chô đê đốt cầm súng đẩy ra nhưng không nhìn rõ được là đứa nào .|tôi chỉ nhìn thấy có một đứa đang bị ba lô và qua chô đê đốt cầm súng đẩy ra nhưng không nhìn rõ được là đứa nào .
+/content/tts/data_preprocess/data_norm/16013.wav|phá cầu ban đêm thì dễ hơn .|phá cầu ban đêm thì dễ hơn .
+/content/tts/data_preprocess/data_norm/14767.wav|cô nói chà bàn tay vẫn đặt trên vai anh .|cô nói chà bàn tay vẫn đặt trên vai anh .
+/content/tts/data_preprocess/data_norm/09141.wav|suốt thời gian với chúng tôi anh ta luôn luôn nói đến khả năng đó .|suốt thời gian với chúng tôi anh ta luôn luôn nói đến khả năng đó .
+/content/tts/data_preprocess/data_norm/07323.wav|bây giờ chẳng hạn là vừa mới bắt đầu tuần trăng tháng năm .|bây giờ chẳng hạn là vừa mới bắt đầu tuần trăng tháng năm .
+/content/tts/data_preprocess/data_norm/02594.wav|hắn đang hút một điếu thuốc lá nga và khi hắn rít điếu thuốc bộ mặt tròn của hắn hiện ra trong ánh lửa .|hắn đang hút một điếu thuốc lá nga và khi hắn rít điếu thuốc bộ mặt tròn của hắn hiện ra trong ánh lửa .
+/content/tts/data_preprocess/data_norm/16251.wav|khi đó là trước lúc thành lập những đội du kích đầu tiên .|khi đó là trước lúc thành lập những đội du kích đầu tiên .
+/content/tts/data_preprocess/data_norm/12958.wav|mặc một chiếc áo choàng ngoài sách một cái cặp đựng bản đồ và đeo một khẩu súng lục thác xung quanh chiếc áo ngoài .|mặc một chiếc áo choàng ngoài sách một cái cặp đựng bản đồ và đeo một khẩu súng lục thác xung quanh chiếc áo ngoài .
+/content/tts/data_preprocess/data_norm/09898.wav|anh bạn anh đừng có coi thường cố không phải việc của mỗi khi ăn mặc cố là đồ đĩ đâu .|anh bạn anh đừng có coi thường cố không phải việc của mỗi khi ăn mặc cố là đồ đĩ đâu .
+/content/tts/data_preprocess/data_merge_norm/11728_15907.wav|có em anh sẽ phải lo thêm về em , anh có chắc chắn là thần kinh anh vững không .|có em anh sẽ phải lo thêm về em , anh có chắc chắn là thần kinh anh vững không .
+/content/tts/data_preprocess/data_norm/12296.wav|mấy ngày vừa qua anh đã hiểu được bản thân anh .|mấy ngày vừa qua anh đã hiểu được bản thân anh .
+/content/tts/data_preprocess/data_norm/08853.wav|lúc này anh ngồi ở bàn với quyển sổ tay để trước mặt .|lúc này anh ngồi ở bàn với quyển sổ tay để trước mặt .
+/content/tts/data_preprocess/data_norm/00673.wav|nếu chúng nó cho bọn mo rơ đi lùng .|nếu chúng nó cho bọn mo rơ đi lùng .
+/content/tts/data_preprocess/data_norm/05812.wav|có cảm giác là mình đúng như thế .|có cảm giác là mình đúng như thế .
+/content/tts/data_preprocess/data_norm/02424.wav|anh hãy uống hết cái thứ kỳ quái anh đang uống đi rồi uống một chén rượu vang .|anh hãy uống hết cái thứ kỳ quái anh đang uống đi rồi uống một chén rượu vang .
+/content/tts/data_preprocess/data_norm/03095.wav|có nhưng đồng hồ ở sau lưng em .|có nhưng đồng hồ ở sau lưng em .
+/content/tts/data_preprocess/data_norm/15227.wav|gậy gộc đánh tới tấp vào lưng vào vai nó cho đến lúc nó ngã xuống và những người đứng ở cuối hàng khi nó lên quẳng nó xuống sông .|gậy gộc đánh tới tấp vào lưng vào vai nó cho đến lúc nó ngã xuống và những người đứng ở cuối hàng khi nó lên quẳng nó xuống sông .
+/content/tts/data_preprocess/split_long_audio_norm/01918_3.wav|tầng lớp .|tầng lớp .
+/content/tts/data_preprocess/data_norm/05282.wav|anh thấy bộ mặt ngăm ngăm đen của mụ tái đi da sạm lại và mắt thâm quầng .|anh thấy bộ mặt ngăm ngăm đen của mụ tái đi da sạm lại và mắt thâm quầng .
+/content/tts/data_preprocess/data_norm/03524.wav|anh nói và thầm mong rằng mình nói thật .|anh nói và thầm mong rằng mình nói thật .
+/content/tts/data_preprocess/nsw_norm/14355.wav|páp-lô đi lại cái cây gần nhất và nhìn xuống sườn núi .|páp-lô đi lại cái cây gần nhất và nhìn xuống sườn núi .
+/content/tts/data_preprocess/data_norm/18062.wav|nhưng nghĩ cho cùng đó là so đô chứ không phải cánh này .|nhưng nghĩ cho cùng đó là so đô chứ không phải cánh này .
+/content/tts/data_preprocess/split_long_audio_norm/2700_3.wav|đầu cạo trọc .|đầu cạo trọc .
+/content/tts/data_preprocess/data_norm/07290.wav|một tin khác nằm ngủ trên một cái giường nhỏ .|một tin khác nằm ngủ trên một cái giường nhỏ .
+/content/tts/data_preprocess/data_norm/01561.wav|trong chòi gác đối diện với hai người phía trên đường tên lính gác đang ngồi khẩu súng cắm lưỡi lê quặp vào giữa hai đầu gối .|trong chòi gác đối diện với hai người phía trên đường tên lính gác đang ngồi khẩu súng cắm lưỡi lê quặp vào giữa hai đầu gối .
+/content/tts/data_preprocess/data_norm/09477.wav|anh rút khẩu súng bao ra tháo băng đạn lấy một viên trong hàng đạn bên bao súng nhét vào băng rồi đút băng đạn vào trong bắn súng .|anh rút khẩu súng bao ra tháo băng đạn lấy một viên trong hàng đạn bên bao súng nhét vào băng rồi đút băng đạn vào trong bắn súng .
+/content/tts/data_preprocess/data_norm/07617.wav|dẫu sao thì chính hắn là người lúc nãy đã đề nghị đi tìm .|dẫu sao thì chính hắn là người lúc nãy đã đề nghị đi tìm .
+/content/tts/data_preprocess/data_norm/00736.wav|nhưng khi mà họ đã xấu thì cũng không có dân tộc nào xấu bằng .|nhưng khi mà họ đã xấu thì cũng không có dân tộc nào xấu bằng .
+/content/tts/data_preprocess/data_norm/06030.wav|còn bây giờ thì may đã tìm thấy cái đó .|còn bây giờ thì may đã tìm thấy cái đó .
+/content/tts/data_preprocess/data_norm/10759.wav|không cần nhiều đâu em có thể mua lấy được .|không cần nhiều đâu em có thể mua lấy được .
+/content/tts/data_preprocess/data_norm/09152.wav|anh có tin rằng một người có thể thấy trước được những gì sẽ xảy ra với mình không .|anh có tin rằng một người có thể thấy trước được những gì sẽ xảy ra với mình không .
+/content/tts/data_preprocess/data_norm/12683.wav|sẽ có đủ ngựa cho tất cả chúng ta .|sẽ có đủ ngựa cho tất cả chúng ta .
+/content/tts/data_preprocess/data_norm/08235.wav|và anh không có đủ can đảm để làm việc đó .|và anh không có đủ can đảm để làm việc đó .
+/content/tts/data_preprocess/data_norm/14256.wav|tiếng rít của không khí bị xé làm đôi như bay qua ngay trên cái cổ xám vươn ra trước mặt anh .|tiếng rít của không khí bị xé làm đôi như bay qua ngay trên cái cổ xám vươn ra trước mặt anh .
+/content/tts/data_preprocess/data_norm/01531.wav|đó là chiếc cầu thép một nhịp .|đó là chiếc cầu thép một nhịp .
+/content/tts/data_preprocess/data_norm/17979.wav|em hầu như không nhận ra được mặc em nữa .|em hầu như không nhận ra được mặc em nữa .
+/content/tts/data_preprocess/data_norm/05591.wav|rồi hai người cùng đi với nhau men theo con suối .|rồi hai người cùng đi với nhau men theo con suối .
+/content/tts/data_preprocess/data_norm/06614.wav|anh đứng ăn miếng pho mát hơi chua không ngon .|anh đứng ăn miếng pho mát hơi chua không ngon .
+/content/tts/data_preprocess/split_long_audio_norm/03412_2.wav|mặt .|mặt .
+/content/tts/data_preprocess/data_norm/13314.wav|thực ra khi nổ ra cuộc nổi loạn .|thực ra khi nổ ra cuộc nổi loạn .
+/content/tts/data_preprocess/data_norm/14902.wav|chà cứ nghĩ đến những con lươn bé tí tẹo mềm xếp thành đống trên đĩa .|chà cứ nghĩ đến những con lươn bé tí tẹo mềm xếp thành đống trên đĩa .
+/content/tts/data_preprocess/data_norm/06216.wav|việc của anh bây giờ anh phải làm một mình .|việc của anh bây giờ anh phải làm một mình .
+/content/tts/data_preprocess/data_norm/01870.wav|nghĩ đến cô gái của anh nghẹn lại và bước đi trở nên khó khăn .|nghĩ đến cô gái của anh nghẹn lại và bước đi trở nên khó khăn .
+/content/tts/data_preprocess/data_norm/11430.wav|có một tờ giấy thông hành của ghi tên tuổi chiều cao nơi sinh và nhiệm vụ .|có một tờ giấy thông hành của ghi tên tuổi chiều cao nơi sinh và nhiệm vụ .
+/content/tts/data_preprocess/data_norm/01292.wav|thằng sĩ quan đó bắn chết hai người lính của nó đang nằm dưới đất .|thằng sĩ quan đó bắn chết hai người lính của nó đang nằm dưới đất .
+/content/tts/data_preprocess/data_norm/14236.wav|trông thấy cái anh định tìm ra nhóm lên bẻ một cành thông khô .|trông thấy cái anh định tìm ra nhóm lên bẻ một cành thông khô .
+/content/tts/data_preprocess/data_norm/03789.wav|phía dưới cánh đồng cỏ giữa đám phượng vĩ màu vàng thay thế cho thạch thảo nhô lên những tảng đá xám và bên dưới bóng của những rặng thông .|phía dưới cánh đồng cỏ giữa đám phượng vĩ màu vàng thay thế cho thạch thảo nhô lên những tảng đá xám và bên dưới bóng của những rặng thông .
+/content/tts/data_preprocess/data_norm/05879.wav|đi thôi công tác cho chế độ cộng hòa rồi .|đi thôi công tác cho chế độ cộng hòa rồi .
+/content/tts/data_preprocess/data_norm/16068.wav|họ hãy cứ thử để cho chúng tôi là một cái gì trên giấy tờ xem .|họ hãy cứ thử để cho chúng tôi là một cái gì trên giấy tờ xem .
+/content/tts/data_preprocess/nsw_norm/05045.wav|rất nhiều vỉ vi-la-cát-tin và san-ra-pha-en nhiều lắm nhiều lắm .|rất nhiều vỉ vi-la-cát-tin và san-ra-pha-en nhiều lắm nhiều lắm .
+/content/tts/data_preprocess/data_norm/15983.wav|không còn cái vẻ kẻ cả nhạt nhẽo của một lão chiến sĩ như lúc này nữa .|không còn cái vẻ kẻ cả nhạt nhẽo của một lão chiến sĩ như lúc này nữa .
+/content/tts/data_preprocess/data_norm/02149.wav|người ta cho rằng nó làm hỏng óc nhưng tôi không tin .|người ta cho rằng nó làm hỏng óc nhưng tôi không tin .
+/content/tts/data_preprocess/data_norm/14293.wav|lúc đó nhìn con ngựa ngồi đấy .|lúc đó nhìn con ngựa ngồi đấy .
+/content/tts/data_preprocess/data_norm/05877.wav|nếu mà hỏi ý kiến thì mình thế này .|nếu mà hỏi ý kiến thì mình thế này .
+/content/tts/data_preprocess/data_norm/11211.wav|tôi không từ một việc gì có thể làm được để trả lại những đồ đạc của anh .|tôi không từ một việc gì có thể làm được để trả lại những đồ đạc của anh .
+/content/tts/data_preprocess/data_norm/09655.wav|bàn tay cô nắm chặt trong túi anh đập mạnh vào đùi anh .|bàn tay cô nắm chặt trong túi anh đập mạnh vào đùi anh .
+/content/tts/data_preprocess/data_norm/04087.wav|và chúng tôi đi vào thành phố đến chỗ quảng trường .|và chúng tôi đi vào thành phố đến chỗ quảng trường .
+/content/tts/data_preprocess/data_norm/07938.wav|thế thì các anh sẽ phải chiến đấu ở nước anh như chúng tôi chiến đấu ở đây .|thế thì các anh sẽ phải chiến đấu ở nước anh như chúng tôi chiến đấu ở đây .
+/content/tts/data_preprocess/data_norm/12441.wav|có che cái lưỡi trai bằng nhựa xanh .|có che cái lưỡi trai bằng nhựa xanh .
+/content/tts/data_preprocess/data_norm/14120.wav|hắn đứng thẳng người lên và nói .|hắn đứng thẳng người lên và nói .
+/content/tts/data_preprocess/data_norm/07959.wav|nghe cái mụ đàn bà ấy thì không biết hết được đâu .|nghe cái mụ đàn bà ấy thì không biết hết được đâu .
+/content/tts/data_preprocess/data_norm/13412.wav|nó vẫn đội chiếc mũ sợi đan ấy và nó không cạo râu .|nó vẫn đội chiếc mũ sợi đan ấy và nó không cạo râu .
+/content/tts/data_preprocess/data_norm/12741.wav|anh từ biệt cô đầu trọc cô ăn xong thì đi thôi .|anh từ biệt cô đầu trọc cô ăn xong thì đi thôi .
+/content/tts/data_preprocess/data_norm/12743.wav|nhưng tôi bắt đầu nghĩ rằng anh sợ trông thấy con bò trong chuồng nó ra đấy .|nhưng tôi bắt đầu nghĩ rằng anh sợ trông thấy con bò trong chuồng nó ra đấy .
+/content/tts/data_preprocess/data_norm/01604.wav|rồi lấy ở túi áo ra một cái túi đựng thuốc lá bằng da gỡ điếu thuốc lá dụi tắt .|rồi lấy ở túi áo ra một cái túi đựng thuốc lá bằng da gỡ điếu thuốc lá dụi tắt .
+/content/tts/data_preprocess/data_norm/03675.wav|thế ra chúng nó cũng làm cho anh hoảng như những người khác à .|thế ra chúng nó cũng làm cho anh hoảng như những người khác à .
+/content/tts/data_preprocess/data_norm/13437.wav|anh có khuỷu tay vào lá thông .|anh có khuỷu tay vào lá thông .
+/content/tts/data_preprocess/data_merge_norm/06005_01787.wav|do đó lúc ở trên núi mụ đã bỏ đi , thế còn tên lính gác cũ chẳng đùa ra hiệu là giết nó đi là gì .|do đó lúc ở trên núi mụ đã bỏ đi , thế còn tên lính gác cũ chẳng đùa ra hiệu là giết nó đi là gì .
+/content/tts/data_preprocess/data_norm/08703.wav|tuyết đang ngất đi chỉ còn những bông tuyết nhỏ và rắn .|tuyết đang ngất đi chỉ còn những bông tuyết nhỏ và rắn .
+/content/tts/data_preprocess/data_norm/18073.wav|anh hồi hộp thích thú và cũng sợ đến toát mồ hôi .|anh hồi hộp thích thú và cũng sợ đến toát mồ hôi .
+/content/tts/data_preprocess/data_norm/00237.wav|nhưng trong trường hợp này thì có thể được .|nhưng trong trường hợp này thì có thể được .
+/content/tts/data_preprocess/data_norm/19140.wav|chết chỉ khó chịu khi nào cái chết kéo dài và đau đớn đến nỗi làm cho người ta cảm thấy nhục nhã .|chết chỉ khó chịu khi nào cái chết kéo dài và đau đớn đến nỗi làm cho người ta cảm thấy nhục nhã .
+/content/tts/data_preprocess/data_norm/04879.wav|một tay đấu bò như chú thì non quá đấy .|một tay đấu bò như chú thì non quá đấy .
+/content/tts/data_preprocess/data_norm/13249.wav|trước khi rời khỏi căn cứ xuất phát nhận được chỉ cho trông thấy những chỗ đất đào trên ngọn đồi đó .|trước khi rời khỏi căn cứ xuất phát nhận được chỉ cho trông thấy những chỗ đất đào trên ngọn đồi đó .
+/content/tts/data_preprocess/data_norm/03207.wav|tiếng ù ù đức to đến gần mỗi lúc một to hơn .|tiếng ù ù đức to đến gần mỗi lúc một to hơn .
+/content/tts/data_preprocess/data_norm/07209.wav|chết cóng ở đây là một việc quá đáng và vô ích .|chết cóng ở đây là một việc quá đáng và vô ích .
+/content/tts/data_preprocess/data_norm/16914.wav|mỗi thằng phát xít chết đi là bớt được một tên phát xít .|mỗi thằng phát xít chết đi là bớt được một tên phát xít .
+/content/tts/data_preprocess/data_norm/00787.wav|vách bờ đá có một cái hang lớn và bên cửa hang có một người ngồi lưng tựa vào vách đá .|vách bờ đá có một cái hang lớn và bên cửa hang có một người ngồi lưng tựa vào vách đá .
+/content/tts/data_preprocess/data_norm/09808.wav|tôi vẫn cho nước mỹ là một nước văn minh .|tôi vẫn cho nước mỹ là một nước văn minh .
+/content/tts/data_preprocess/data_norm/15533.wav|họ trông họ đánh họ đáy và đánh bằng những dĩa gỗ trắng bây giờ đã đỏ lòm răng gãy hết .|họ trông họ đánh họ đáy và đánh bằng những dĩa gỗ trắng bây giờ đã đỏ lòm răng gãy hết .
+/content/tts/data_preprocess/nsw_norm/03810.wav|em có chán rừng thông không ma-ri-a .|em có chán rừng thông không ma-ri-a .
+/content/tts/data_preprocess/data_norm/12928.wav|vua mới dựng chiếc mô tô vào tường như lúc đó thì cánh cửa mở .|vua mới dựng chiếc mô tô vào tường như lúc đó thì cánh cửa mở .
+/content/tts/data_preprocess/data_norm/16511.wav|dẹp bàn ghế đẩu bọc da sống vào một bên cho rộng chỗ .|dẹp bàn ghế đẩu bọc da sống vào một bên cho rộng chỗ .
+/content/tts/data_preprocess/data_norm/06814.wav|cảm thấy nhẹ nhõm vì đã không bị húc .|cảm thấy nhẹ nhõm vì đã không bị húc .
+/content/tts/data_preprocess/data_norm/12200.wav|anh có đem về những của đáng đem về không .|anh có đem về những của đáng đem về không .
+/content/tts/data_preprocess/data_norm/13640.wav|con sông men thế nào thì quốc gia như thế .|con sông men thế nào thì quốc gia như thế .
+/content/tts/data_preprocess/data_norm/00470.wav|trước những lời khen nịnh của anh anh nói .|trước những lời khen nịnh của anh anh nói .
+/content/tts/data_preprocess/data_norm/09378.wav|anh chờ những bà cụ già đã tới từ trước khi trời sáng để uống máu những súc vật bị mổ thịt .|anh chờ những bà cụ già đã tới từ trước khi trời sáng để uống máu những súc vật bị mổ thịt .
+/content/tts/data_preprocess/data_norm/13096.wav|đêm nay chúng tôi đã một lần bị sự dốt nát của bọn vô chính phủ ngăn trở rồi lại bị sự lười nhác của một tên phát xít quan liêu ngăn trở .|đêm nay chúng tôi đã một lần bị sự dốt nát của bọn vô chính phủ ngăn trở rồi lại bị sự lười nhác của một tên phát xít quan liêu ngăn trở .
+/content/tts/data_preprocess/data_norm/07657.wav|để em tháo giày của anh đem hong cho khô nhé .|để em tháo giày của anh đem hong cho khô nhé .
+/content/tts/data_preprocess/data_norm/18631.wav|vừa tháo vừa đi nghiêng nghiêng giật lùi dọc theo chiếc cầu .|vừa tháo vừa đi nghiêng nghiêng giật lùi dọc theo chiếc cầu .
+/content/tts/data_preprocess/data_norm/13904.wav|những vỏ đạn đồng tuôn ra như một dòng suối loang loáng trong ánh mặt trời .|những vỏ đạn đồng tuôn ra như một dòng suối loang loáng trong ánh mặt trời .
+/content/tts/data_preprocess/data_norm/12457.wav|thợ cáo các anh đến là dễ xúc động .|thợ cáo các anh đến là dễ xúc động .
+/content/tts/data_preprocess/data_norm/06195.wav|em thích tóc anh cứ để như thế này .|em thích tóc anh cứ để như thế này .
+/content/tts/data_preprocess/data_norm/13255.wav|thì những bắp thịt ở quai hàm của vị tướng đầu có nhiều sẹo mặc trắng đó cứng lại và ông nghĩ .|thì những bắp thịt ở quai hàm của vị tướng đầu có nhiều sẹo mặc trắng đó cứng lại và ông nghĩ .
+/content/tts/data_preprocess/data_norm/10626.wav|mày sẽ phá đó một ngày nào đó .|mày sẽ phá đó một ngày nào đó .
+/content/tts/data_preprocess/data_norm/11499.wav|đáng lẽ tốt hơn cả là bắn chết mày lúc mày đến gần hàng rào dây thép .|đáng lẽ tốt hơn cả là bắn chết mày lúc mày đến gần hàng rào dây thép .
+/content/tts/data_preprocess/data_norm/13369.wav|ngay dù cho chúng ta không có gì đi chăng nữa .|ngay dù cho chúng ta không có gì đi chăng nữa .
+/content/tts/data_preprocess/data_norm/17198.wav|và đã bị thương tại trận đánh y doanh lúc bắt đầu chiến tranh .|và đã bị thương tại trận đánh y doanh lúc bắt đầu chiến tranh .
+/content/tts/data_preprocess/data_norm/17208.wav|đó là những bức thư của em gái tên lính .|đó là những bức thư của em gái tên lính .
+/content/tts/data_preprocess/data_norm/06447.wav|không ngờ mũ còn quay trở lại để giở trò áp đảo .|không ngờ mũ còn quay trở lại để giở trò áp đảo .
+/content/tts/data_preprocess/data_norm/01930.wav|là chúng ta sẽ nổ mìn một cái cầu chết tiệt giờ chúng ta sẽ cuốn xéo mẹ nó khỏi dãy núi này phải không .|là chúng ta sẽ nổ mìn một cái cầu chết tiệt giờ chúng ta sẽ cuốn xéo mẹ nó khỏi dãy núi này phải không .
+/content/tts/data_preprocess/data_norm/08836.wav|những người đàn bà mặc áo len đan tay đầu để trần mái tóc ánh lên dưới ánh sáng hơi đốt đứng trước bàn quay số đang quay .|những người đàn bà mặc áo len đan tay đầu để trần mái tóc ánh lên dưới ánh sáng hơi đốt đứng trước bàn quay số đang quay .
+/content/tts/data_preprocess/data_norm/09111.wav|anh có quen vài người nga ở đó nghĩ đến một cuốn sách sau này có lúc anh sẽ viết .|anh có quen vài người nga ở đó nghĩ đến một cuốn sách sau này có lúc anh sẽ viết .
+/content/tts/data_preprocess/data_norm/18969.wav|và cho dù nó có thể diễn ra như thế nào đi nữa .|và cho dù nó có thể diễn ra như thế nào đi nữa .
+/content/tts/data_preprocess/data_norm/13488.wav|cùng với phát súng thứ hai anh nghe thấy tiếng lựu đạn nổ ầm ầm từ phía chỗ ngoặt bên dưới cầu trang tới .|cùng với phát súng thứ hai anh nghe thấy tiếng lựu đạn nổ ầm ầm từ phía chỗ ngoặt bên dưới cầu trang tới .
+/content/tts/data_preprocess/data_norm/05258.wav|lão điếc đứng nhìn theo họ .|lão điếc đứng nhìn theo họ .
+/content/tts/data_preprocess/data_norm/00037.wav|người trẻ tuổi đang xem xét địa hình .|người trẻ tuổi đang xem xét địa hình .
+/content/tts/data_preprocess/data_norm/06239.wav|anh trông thấy đầu người đàn bà gục vào hai cánh tay gập lại .|anh trông thấy đầu người đàn bà gục vào hai cánh tay gập lại .
+/content/tts/data_preprocess/data_norm/10164.wav|trong lúc chạy lên đoạn đường cuối cùng trên sườn đồi chạy đến tức ngực mỏi rời cả chân khô cả cổ .|trong lúc chạy lên đoạn đường cuối cùng trên sườn đồi chạy đến tức ngực mỏi rời cả chân khô cả cổ .
+/content/tts/data_preprocess/data_norm/04876.wav|những xúc động đó làm tôi mệt lắm rồi .|những xúc động đó làm tôi mệt lắm rồi .
+/content/tts/data_preprocess/data_norm/05570.wav|thỏa mãn mọi hư vô biến mất .|thỏa mãn mọi hư vô biến mất .
+/content/tts/data_preprocess/data_norm/03503.wav|trong một cái giường không thể có đủ chỗ cho tôi và anh và cả cái sợ của anh đâu .|trong một cái giường không thể có đủ chỗ cho tôi và anh và cả cái sợ của anh đâu .
+/content/tts/data_preprocess/data_norm/13565.wav|thường thường mình phải làm việc với một kết cầu bằng đá đầy rác bụi .|thường thường mình phải làm việc với một kết cầu bằng đá đầy rác bụi .
+/content/tts/data_preprocess/data_norm/10052.wav|anh ta đang giơ súng lên chỉ .|anh ta đang giơ súng lên chỉ .
+/content/tts/data_preprocess/data_norm/10682.wav|bao giờ thì cũng cảm thấy đau đấy .|bao giờ thì cũng cảm thấy đau đấy .
+/content/tts/data_preprocess/data_norm/03029.wav|nhưng có lẽ anh sẽ đưa em về cái nhà ấy .|nhưng có lẽ anh sẽ đưa em về cái nhà ấy .
+/content/tts/data_preprocess/data_merge_norm/01599_10202.wav|trong lều của người phu sữa đường dựng xác bởi núi đá , trên sườn đồi ngay chỗ lão trông xuống sắc bà tên đã ngã gục .|trong lều của người phu sữa đường dựng xác bởi núi đá , trên sườn đồi ngay chỗ lão trông xuống sắc bà tên đã ngã gục .
+/content/tts/data_preprocess/data_norm/03212.wav|chúng chưa bày khuất sau sườn núi anh đã cài xong khẩu súng lục .|chúng chưa bày khuất sau sườn núi anh đã cài xong khẩu súng lục .
+/content/tts/data_preprocess/data_norm/06139.wav|vậy ra là cổ đi chơi mà vẫn mang những ý nghĩ ấy trong đầu coi đó như là một khả năng được thừa nhận ra được chuẩn bị chu đáo .|vậy ra là cổ đi chơi mà vẫn mang những ý nghĩ ấy trong đầu coi đó như là một khả năng được thừa nhận ra được chuẩn bị chu đáo .
+/content/tts/data_preprocess/data_norm/17900.wav|thương nhớ ba mẹ thì em vẫn thương nhớ .|thương nhớ ba mẹ thì em vẫn thương nhớ .
+/content/tts/data_preprocess/data_norm/04790.wav|thái độ một người anh rể khác cũng làm công nhân xe điện đã trốn lên núi như tôi .|thái độ một người anh rể khác cũng làm công nhân xe điện đã trốn lên núi như tôi .
+/content/tts/data_preprocess/data_norm/04522.wav|tôi còn nhớ là nắm lấy hai chân cô bụng cô ở trên vai tôi đầu ở trên lưng tôi hai tay thì buông thõng sau lưng tôi .|tôi còn nhớ là nắm lấy hai chân cô bụng cô ở trên vai tôi đầu ở trên lưng tôi hai tay thì buông thõng sau lưng tôi .
+/content/tts/data_preprocess/data_norm/16682.wav|ngày mai là một ngày trên đường sẽ có nhiều bụi đây .|ngày mai là một ngày trên đường sẽ có nhiều bụi đây .
+/content/tts/data_preprocess/data_norm/17703.wav|hắn ta chỉ có một kết tài là tự đưa mình vào những hoàn cảnh gay go rồi lại thoát ra được .|hắn ta chỉ có một kết tài là tự đưa mình vào những hoàn cảnh gay go rồi lại thoát ra được .
+/content/tts/data_preprocess/data_norm/16234.wav|chính trong những ngày đó mà ta đã có được một niềm tin tự hào sâu sắc lành mạnh và không vị kỷ .|chính trong những ngày đó mà ta đã có được một niềm tin tự hào sâu sắc lành mạnh và không vị kỷ .
+/content/tts/data_preprocess/data_norm/07554.wav|tôi thấy anh tôi cũng rất vui .|tôi thấy anh tôi cũng rất vui .
+/content/tts/data_preprocess/nsw_norm/18284.wav|tôi thường dẫn chữa lại trước khi gửi bài về cho báo đáp-đa .|tôi thường dẫn chữa lại trước khi gửi bài về cho báo đáp-đa .
+/content/tts/data_preprocess/data_norm/16862.wav|điều trên hết là phải tránh đánh nhau .|điều trên hết là phải tránh đánh nhau .
+/content/tts/data_preprocess/data_norm/17185.wav|thỉnh thoảng anh lại ngừng đọc nhìn ra sườn núi trống cho tới cánh rừng thông .|thỉnh thoảng anh lại ngừng đọc nhìn ra sườn núi trống cho tới cánh rừng thông .
+/content/tts/data_preprocess/data_merge_norm/18476_14437.wav|ông sẽ gọi thẳng đến trường bây giờ đã lệnh bãi bỏ cuộc ném bom , bây giờ anh thấy là em đã rõ rồi .|ông sẽ gọi thẳng đến trường bây giờ đã lệnh bãi bỏ cuộc ném bom , bây giờ anh thấy là em đã rõ rồi .
+/content/tts/data_preprocess/nsw_norm/08160.wav|nhưng páp-lô thì quả thật là không đẹp .|nhưng páp-lô thì quả thật là không đẹp .
+/content/tts/data_preprocess/data_norm/00108.wav|ông cụ dừng lại dưới vách đá và chờ người trẻ tuổi tới .|ông cụ dừng lại dưới vách đá và chờ người trẻ tuổi tới .
+/content/tts/data_preprocess/nsw_norm/02401.wav|páp-lô nhìn mụ già trông mặt hắn không thể biết được hắn đang nghĩ gì .|páp-lô nhìn mụ già trông mặt hắn không thể biết được hắn đang nghĩ gì .
+/content/tts/data_preprocess/data_norm/04409.wav|việc gì mà cứ phải đứng đợi cả ngày ngoài nắng .|việc gì mà cứ phải đứng đợi cả ngày ngoài nắng .
+/content/tts/data_preprocess/data_norm/08837.wav|phải đây là những người đứng chờ .|phải đây là những người đứng chờ .
+/content/tts/data_preprocess/data_norm/01349.wav|tốt hơn là nên đi khỏi nơi này và chúng tôi có ngựa .|tốt hơn là nên đi khỏi nơi này và chúng tôi có ngựa .
+/content/tts/data_preprocess/nsw_norm/02486.wav|nhưng rô-bớt-giót-đan thầm nghĩ .|nhưng rô-bớt-giót-đan thầm nghĩ .
+/content/tts/data_preprocess/data_norm/14910.wav|trong suốt thời gian hỗ trợ dây pháo kéo dài khắp thành phố .|trong suốt thời gian hỗ trợ dây pháo kéo dài khắp thành phố .
+/content/tts/data_preprocess/data_merge_norm/10198_08364.wav|lão chăm chú nhìn qua cổ con ngựa chết , cái mụ đàn bà này ăn nói mới hay chứ .|lão chăm chú nhìn qua cổ con ngựa chết , cái mụ đàn bà này ăn nói mới hay chứ .
+/content/tts/data_preprocess/data_norm/00078.wav|từ chỗ mà chúng ta sẽ tới có thể đi thẳng xuống cầu .|từ chỗ mà chúng ta sẽ tới có thể đi thẳng xuống cầu .
+/content/tts/data_preprocess/data_norm/10565.wav|có thể là ta không định thắng trong trận tấn công này .|có thể là ta không định thắng trong trận tấn công này .
+/content/tts/data_preprocess/data_norm/07568.wav|không biết ai có đủ khả năng chịu đựng nổi điều đó không .|không biết ai có đủ khả năng chịu đựng nổi điều đó không .
+/content/tts/data_preprocess/data_norm/03761.wav|anh không biết hắn đã suy sụp đến thế nào .|anh không biết hắn đã suy sụp đến thế nào .
+/content/tts/data_preprocess/data_norm/07048.wav|lúc này cúi xuống ngọn lửa mụ lại như nhìn thấy cái thân hình đen đủi trần truồng nằm trên giường với những vết sẹo sần sùi trên cả hai đùi .|lúc này cúi xuống ngọn lửa mụ lại như nhìn thấy cái thân hình đen đủi trần truồng nằm trên giường với những vết sẹo sần sùi trên cả hai đùi .
+/content/tts/data_preprocess/data_norm/18664.wav|trong khi chiếc cầu rơi xuống chỗ nốt vừa nổ tung lên .|trong khi chiếc cầu rơi xuống chỗ nốt vừa nổ tung lên .
+/content/tts/data_preprocess/data_norm/08324.wav|khinh miệt và chửi rủa đều đều như thế anh ta đang lấy dĩa thức phân ở trên xe xuống để bón ruộng .|khinh miệt và chửi rủa đều đều như thế anh ta đang lấy dĩa thức phân ở trên xe xuống để bón ruộng .
+/content/tts/data_preprocess/nsw_norm/12382.wav|a-li-xi-ô anh thế nào .|a-li-xi-ô anh thế nào .
+/content/tts/data_preprocess/data_norm/18096.wav|anh có thể chờ con bò húc tới và đến cuối cùng mới nhảy tránh sang một bên .|anh có thể chờ con bò húc tới và đến cuối cùng mới nhảy tránh sang một bên .
+/content/tts/data_preprocess/data_norm/07771.wav|cái đó không phải chỉ là kiểu cách xã giao xã giao thì phải đem rượu ra cùng uống với khách một cách trịnh trọng .|cái đó không phải chỉ là kiểu cách xã giao xã giao thì phải đem rượu ra cùng uống với khách một cách trịnh trọng .
+/content/tts/data_preprocess/data_norm/15199.wav|nốt cao và gầy tóc chảy vắt từ bên này sang bên kia để che cái đầu hói .|nốt cao và gầy tóc chảy vắt từ bên này sang bên kia để che cái đầu hói .
+/content/tts/data_preprocess/data_norm/16551.wav|dưới túi chăn ấm áp mềm mại nhẹ nhàng .|dưới túi chăn ấm áp mềm mại nhẹ nhàng .
+/content/tts/data_preprocess/data_norm/18077.wav|rồi đứng lại giữa quảng trường đầu ngẩng lên lỗ mũi mở rộng .|rồi đứng lại giữa quảng trường đầu ngẩng lên lỗ mũi mở rộng .
+/content/tts/data_preprocess/data_norm/08463.wav|tôi tưởng chị vừa nói là nó có thể làm bất cứ cái gì mà .|tôi tưởng chị vừa nói là nó có thể làm bất cứ cái gì mà .
+/content/tts/data_preprocess/data_norm/10618.wav|tuy nhiên cả hai lần chúng ta chỉ có một đội quân .|tuy nhiên cả hai lần chúng ta chỉ có một đội quân .
+/content/tts/data_preprocess/data_norm/12835.wav|mụ hòm đạn rơi xuống vỡ tung ra .|mụ hòm đạn rơi xuống vỡ tung ra .
+/content/tts/data_preprocess/data_norm/14029.wav|đừng có lấy luôn lý ra mà lên án .|đừng có lấy luôn lý ra mà lên án .
+/content/tts/data_preprocess/data_norm/17918.wav|khi chúng nó bắn ba em trước tường lò mổ làng em .|khi chúng nó bắn ba em trước tường lò mổ làng em .
+/content/tts/data_preprocess/data_norm/03413.wav|cặp mắt vui vẻ nhưng khi đôi môi không động đậy thì bộ mặt có vẻ buồn .|cặp mắt vui vẻ nhưng khi đôi môi không động đậy thì bộ mặt có vẻ buồn .
+/content/tts/data_preprocess/data_norm/03275.wav|anh thấy liệu chúng nó có thể trông thấy đảng ngứa không .|anh thấy liệu chúng nó có thể trông thấy đảng ngứa không .
+/content/tts/data_preprocess/data_norm/11406.wav|bây giờ anh đã biết anh phải đối phó với một bọn điên rồ .|bây giờ anh đã biết anh phải đối phó với một bọn điên rồ .
+/content/tts/data_preprocess/data_norm/01565.wav|thành cầu hiện ra rõ mồn một tưởng chừng như có thể với tay sờ thấy được .|thành cầu hiện ra rõ mồn một tưởng chừng như có thể với tay sờ thấy được .
+/content/tts/data_preprocess/data_norm/17632.wav|giữa hai ông cháu lại có một sự cách trở về thời gian như thế .|giữa hai ông cháu lại có một sự cách trở về thời gian như thế .
+/content/tts/data_preprocess/data_norm/16473.wav|anh dùng mảnh ván đó gạt hết tuyết trên mặt đất .|anh dùng mảnh ván đó gạt hết tuyết trên mặt đất .
+/content/tts/data_preprocess/data_norm/07214.wav|chúng nó đang đàng hoàng dễ chịu .|chúng nó đang đàng hoàng dễ chịu .
+/content/tts/data_preprocess/data_norm/10611.wav|lần đầu tiên chúng nó đã phạm nhiều sai lầm .|lần đầu tiên chúng nó đã phạm nhiều sai lầm .
+/content/tts/data_preprocess/data_norm/06175.wav|thế thì khi nào anh ốm em sẽ trông nom anh nấu súp cho anh lau người cho anh làm mọi việc cho anh .|thế thì khi nào anh ốm em sẽ trông nom anh nấu súp cho anh lau người cho anh làm mọi việc cho anh .
+/content/tts/data_preprocess/data_norm/03861.wav|tôi có thể là một người đàn ông khá thế mà tôi lại chỉ là đàn bà mà lại xấu .|tôi có thể là một người đàn ông khá thế mà tôi lại chỉ là đàn bà mà lại xấu .
+/content/tts/data_preprocess/data_merge_norm/07173_03943.wav|hai tên ngồi trên ghế phía sau và một tên ngồi trên chiếc ghế gập , không anh bạn tôi không nói đùa đâu .|hai tên ngồi trên ghế phía sau và một tên ngồi trên chiếc ghế gập , không anh bạn tôi không nói đùa đâu .
+/content/tts/data_preprocess/data_norm/06142.wav|anh hãy hứa là nếu cần thiết thì anh sẽ bắn em nhé .|anh hãy hứa là nếu cần thiết thì anh sẽ bắn em nhé .
+/content/tts/data_preprocess/data_norm/05085.wav|chúng tôi có bảy đàn ông hay đàn bà và năm con ngựa .|chúng tôi có bảy đàn ông hay đàn bà và năm con ngựa .
+/content/tts/data_preprocess/data_norm/17675.wav|tuy nhiên người kia cũng không phải là một tên khốn nạn mà chỉ là một kẻ hèn nhát .|tuy nhiên người kia cũng không phải là một tên khốn nạn mà chỉ là một kẻ hèn nhát .
+/content/tts/data_preprocess/data_norm/11265.wav|một con gà trống gáy trong trại nơi bọn phát xít đóng buốt và men theo bờ suối .|một con gà trống gáy trong trại nơi bọn phát xít đóng buốt và men theo bờ suối .
+/content/tts/data_preprocess/data_norm/17497.wav|lão bảo cho kim chàng thanh niên kéo khẩu liên thanh ra khỏi chỗ để giữa con ngựa và tảng đá .|lão bảo cho kim chàng thanh niên kéo khẩu liên thanh ra khỏi chỗ để giữa con ngựa và tảng đá .
+/content/tts/data_preprocess/data_norm/07582.wav|mình thường hay có ý kiến về những khuyết điểm trong những trận đánh của người khác .|mình thường hay có ý kiến về những khuyết điểm trong những trận đánh của người khác .
+/content/tts/data_preprocess/data_norm/11857.wav|định tìm cách đánh chiếm cả hai mốt là không ổn rồi .|định tìm cách đánh chiếm cả hai mốt là không ổn rồi .
+/content/tts/data_preprocess/data_norm/09656.wav|anh nhìn cô và thắc mắc cô có nước mắt .|anh nhìn cô và thắc mắc cô có nước mắt .
+/content/tts/data_preprocess/data_norm/07369.wav|tôi không thích chồng thấy những chiếc xe tham mưu ấy .|tôi không thích chồng thấy những chiếc xe tham mưu ấy .
+/content/tts/data_preprocess/data_norm/12713.wav|giữa đồng minh với nhau thì bao giờ cũng phải bắt tay nhiều không kể tặng huân chương và ôm hôn hai bên má nữa .|giữa đồng minh với nhau thì bao giờ cũng phải bắt tay nhiều không kể tặng huân chương và ôm hôn hai bên má nữa .
+/content/tts/data_preprocess/data_norm/11600.wav|lúc này và lúc này cho đến mãi mãi .|lúc này và lúc này cho đến mãi mãi .
+/content/tts/data_preprocess/data_norm/07150.wav|và mình đã biết cách bố trí và nề nếp của cây bút chỗ xưởng cưa bên kia đường rồi .|và mình đã biết cách bố trí và nề nếp của cây bút chỗ xưởng cưa bên kia đường rồi .
+/content/tts/data_preprocess/data_norm/16385.wav|trong cái túi đó chứa đựng tinh túy của tất cả những cái đó .|trong cái túi đó chứa đựng tinh túy của tất cả những cái đó .
+/content/tts/data_preprocess/data_norm/07583.wav|kể từ trận à chim cua trở đi .|kể từ trận à chim cua trở đi .
+/content/tts/data_preprocess/data_norm/02495.wav|tiếng đàn ngưng lên cùng với tiếng vỗ tay hoan hô người hát .|tiếng đàn ngưng lên cùng với tiếng vỗ tay hoan hô người hát .
+/content/tts/data_preprocess/data_norm/14033.wav|trước đây mày đã biết khá rõ về nó rồi .|trước đây mày đã biết khá rõ về nó rồi .
+/content/tts/data_preprocess/data_norm/06131.wav|cô lấy ngón tay chỉ cho anh .|cô lấy ngón tay chỉ cho anh .
+/content/tts/data_preprocess/data_norm/10204.wav|lão già anh em đã nếm và lăng lựu đạn xuống bẻ gãy đợt tấn công đó .|lão già anh em đã nếm và lăng lựu đạn xuống bẻ gãy đợt tấn công đó .
+/content/tts/data_preprocess/data_norm/08743.wav|thời tiết thay đổi bây giờ tao theo mày .|thời tiết thay đổi bây giờ tao theo mày .
+/content/tts/data_preprocess/data_norm/10705.wav|không phải ngày nào cũng như thế đâu .|không phải ngày nào cũng như thế đâu .
+/content/tts/data_preprocess/data_norm/07127.wav|tôi sẽ bảo cho một trong những anh em kia biết ông cụ ở đâu ra họ sẽ dẫn anh đi .|tôi sẽ bảo cho một trong những anh em kia biết ông cụ ở đâu ra họ sẽ dẫn anh đi .
+/content/tts/data_preprocess/data_norm/00976.wav|và cô mỉm cười hai tay ôm lấy đầu gối .|và cô mỉm cười hai tay ôm lấy đầu gối .
+/content/tts/data_preprocess/data_norm/18768.wav|mà là từ từ như một sự dáng diụ đi về thể xác .|mà là từ từ như một sự dáng diụ đi về thể xác .
+/content/tts/data_preprocess/data_norm/18134.wav|nhưng mọi người trong làng đều chờ đợi xem anh làm cái việc đó ra hàng năm anh biết rằng đầu tiên khi con bò ra sẽ là những cuộc đuổi húc .|nhưng mọi người trong làng đều chờ đợi xem anh làm cái việc đó ra hàng năm anh biết rằng đầu tiên khi con bò ra sẽ là những cuộc đuổi húc .
+/content/tts/data_preprocess/data_norm/16840.wav|anh cầm khẩu súng giơ lên hạ xuống .|anh cầm khẩu súng giơ lên hạ xuống .
+/content/tts/data_preprocess/data_norm/01866.wav|nhưng cố cử động ngượng nghịu như có cái gì trong người lam của lúng túng .|nhưng cố cử động ngượng nghịu như có cái gì trong người lam của lúng túng .
+/content/tts/data_preprocess/data_norm/07080.wav|trong giấc ngủ ngắn hay hoảng sợ .|trong giấc ngủ ngắn hay hoảng sợ .
+/content/tts/data_preprocess/data_norm/18948.wav|rồi phóng ngược lên con đường mòn .|rồi phóng ngược lên con đường mòn .
+/content/tts/data_preprocess/data_norm/17754.wav|hãy giả thử rằng nếu máy bay thả bom thì những khẩu súng chống chiến xa sẽ bị tan tành .|hãy giả thử rằng nếu máy bay thả bom thì những khẩu súng chống chiến xa sẽ bị tan tành .
+/content/tts/data_preprocess/data_norm/10148.wav|vết thương tấy lên một vết thương ở tay trái đau nhức nhối .|vết thương tấy lên một vết thương ở tay trái đau nhức nhối .
+/content/tts/data_preprocess/data_norm/10980.wav|bên trong cửa có hai người lính gác ngồi trên ghế .|bên trong cửa có hai người lính gác ngồi trên ghế .
+/content/tts/data_preprocess/data_norm/14735.wav|mà ta cũng không nên hoảng hốt vì những tin đồn .|mà ta cũng không nên hoảng hốt vì những tin đồn .
+/content/tts/data_preprocess/data_norm/12930.wav|và người đó bước ra khỏi cửa giai đeo một cái sạc cô .|và người đó bước ra khỏi cửa giai đeo một cái sạc cô .
+/content/tts/data_preprocess/data_norm/18572.wav|mày có những kỷ niệm thơ mộng nhỉ .|mày có những kỷ niệm thơ mộng nhỉ .
+/content/tts/data_preprocess/data_norm/11062.wav|giá mà anh có ở đây để nghe đồng chí đã nói và trông thấy nét mặt đồng chí ấy .|giá mà anh có ở đây để nghe đồng chí đã nói và trông thấy nét mặt đồng chí ấy .
+/content/tts/data_preprocess/data_norm/16976.wav|giúp mụ nặng nề leo qua tảng đá cuối cùng .|giúp mụ nặng nề leo qua tảng đá cuối cùng .
+/content/tts/data_preprocess/data_norm/11462.wav|chỗ đồng bằng bên kia núi phong trào nổ ra thì chúng tôi đang ở đó .|chỗ đồng bằng bên kia núi phong trào nổ ra thì chúng tôi đang ở đó .
+/content/tts/data_preprocess/data_norm/15392.wav|chua như mùi nôn mửa trên vỉa hè và mùi .|chua như mùi nôn mửa trên vỉa hè và mùi .
+/content/tts/data_preprocess/data_norm/11102.wav|anh hãy tránh hắn ta chờ cho khi nào mọi việc đã đâu vào đấy cả .|anh hãy tránh hắn ta chờ cho khi nào mọi việc đã đâu vào đấy cả .
+/content/tts/data_preprocess/data_norm/07443.wav|mình chỉ có mộ điều đó là việc giết người .|mình chỉ có mộ điều đó là việc giết người .
+/content/tts/data_preprocess/data_norm/01758.wav|tất nhiên là tôi có thấy thiếu chúa trời vì tôi đã lớn lên trong tôn giáo nhưng bây giờ con người cần phải có trách nhiệm với bản thân mình .|tất nhiên là tôi có thấy thiếu chúa trời vì tôi đã lớn lên trong tôn giáo nhưng bây giờ con người cần phải có trách nhiệm với bản thân mình .
+/content/tts/data_preprocess/data_norm/07773.wav|và rồi họ sẽ giành chỗ rượu còn lại cho một dịp khác .|và rồi họ sẽ giành chỗ rượu còn lại cho một dịp khác .
+/content/tts/data_preprocess/data_norm/16493.wav|rồi lại bỏ các thứ cuộn trong chăn vào ba lô .|rồi lại bỏ các thứ cuộn trong chăn vào ba lô .
+/content/tts/data_preprocess/data_norm/18794.wav|vậy như chị nói cây cầu đã bị phá rồi .|vậy như chị nói cây cầu đã bị phá rồi .
+/content/tts/data_preprocess/data_norm/06613.wav|mụ với tay tháo một miếng pho mát to đựng trong một cái lưới treo trên trần lấy dao cắt một khoanh dày đưa cho anh .|mụ với tay tháo một miếng pho mát to đựng trong một cái lưới treo trên trần lấy dao cắt một khoanh dày đưa cho anh .
+/content/tts/data_preprocess/data_norm/17698.wav|có mớ tóc quăn vàng bay trước gió .|có mớ tóc quăn vàng bay trước gió .
+/content/tts/data_preprocess/data_norm/00157.wav|anh biết cách phá bất cứ một loại cầu nào và anh đã phá nhiều cầu đủ các cỡ các kiểu .|anh biết cách phá bất cứ một loại cầu nào và anh đã phá nhiều cầu đủ các cỡ các kiểu .
+/content/tts/data_preprocess/data_norm/08438.wav|anh ta còn để cả tâm trí vào bắp thịt .|anh ta còn để cả tâm trí vào bắp thịt .
+/content/tts/data_preprocess/data_norm/16908.wav|chuyện đánh cầu là một bộ phận của một kế hoạch để chiến thắng trong cuộc chiến tranh này .|chuyện đánh cầu là một bộ phận của một kế hoạch để chiến thắng trong cuộc chiến tranh này .
+/content/tts/data_preprocess/data_norm/13181.wav|đồng chí đừng miên thế đồng chí hãy nghe tôi một đồng chí từ một sĩ quan trung thực .|đồng chí đừng miên thế đồng chí hãy nghe tôi một đồng chí từ một sĩ quan trung thực .
+/content/tts/data_preprocess/data_norm/06103.wav|cái túi ngủ của anh sáng nay đáng lẽ phải đập ruồi hông lên phơi ra nắng .|cái túi ngủ của anh sáng nay đáng lẽ phải đập ruồi hông lên phơi ra nắng .
+/content/tts/data_preprocess/data_norm/08023.wav|đáng lẽ chúng ta phải giết hết tất cả chúng nó không giết một đứa nào cả .|đáng lẽ chúng ta phải giết hết tất cả chúng nó không giết một đứa nào cả .
+/content/tts/data_preprocess/data_norm/14116.wav|anh nhét một cái ba lô rỗng vào cái ba lô kia rồi buộc cái ba lô đó vào đằng sau yên ngựa của anh .|anh nhét một cái ba lô rỗng vào cái ba lô kia rồi buộc cái ba lô đó vào đằng sau yên ngựa của anh .
+/content/tts/data_preprocess/data_norm/07063.wav|nhưng nếu em xoa và bôi thuốc cao vào thì nó sẽ nóng lên và sẽ đỡ đau .|nhưng nếu em xoa và bôi thuốc cao vào thì nó sẽ nóng lên và sẽ đỡ đau .
+/content/tts/data_preprocess/data_norm/11192.wav|hai người ra ngoài vào lúc này vẫn còn gần giữa đêm nên không cảm thấy trời sắp sáng .|hai người ra ngoài vào lúc này vẫn còn gần giữa đêm nên không cảm thấy trời sắp sáng .
+/content/tts/data_preprocess/data_norm/12646.wav|buộc mà chỉ cần kéo dây thừng một cái là cởi ra được ngay anh thấy không .|buộc mà chỉ cần kéo dây thừng một cái là cởi ra được ngay anh thấy không .
+/content/tts/data_preprocess/data_norm/01956.wav|dãy núi này biết tôi không có nghĩa lý gì cả chúng ta cần phải rời khỏi nơi này nhưng tôi muốn nói một điều anh hãy trông nom cẩn thận chỗ thuốc nổ của anh .|dãy núi này biết tôi không có nghĩa lý gì cả chúng ta cần phải rời khỏi nơi này nhưng tôi muốn nói một điều anh hãy trông nom cẩn thận chỗ thuốc nổ của anh .
+/content/tts/data_preprocess/data_norm/03864.wav|nghe đây này anh bạn cái này rất hay .|nghe đây này anh bạn cái này rất hay .
+/content/tts/data_preprocess/nsw_norm/07261.wav|vì đó là thời kỳ quân lê-cu páp-lô .|vì đó là thời kỳ quân lê-cu páp-lô .
+/content/tts/data_preprocess/data_norm/15340.wav|chúng tao sẽ đem lại một con bò to hơn con kia nữa kìa .|chúng tao sẽ đem lại một con bò to hơn con kia nữa kìa .
+/content/tts/data_preprocess/data_norm/10517.wav|nhưng trước hết là anh ta phải hiểu rõ đã .|nhưng trước hết là anh ta phải hiểu rõ đã .
+/content/tts/data_preprocess/data_merge_norm/05725_10749.wav|mệnh lệnh không phải là do mình vạch ra , khi không có lý trí mà chỉ còn cách thích thú của sự tận hưởng .|mệnh lệnh không phải là do mình vạch ra , khi không có lý trí mà chỉ còn cách thích thú của sự tận hưởng .

@@ -3,8 +3,8 @@ import numpy as np
 import torch
 import torch.utils.data
 
-from Tacotron2_ import layers
-from Tacotron2_.utils import load_wav_to_torch, load_filepaths_and_text
+import layers
+from utils import load_wav_to_torch, load_filepaths_and_text
 from text import text_to_sequence
 
 

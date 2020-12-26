@@ -5,16 +5,16 @@ import math
 from numpy import finfo
 
 import torch
-from Tacotron2_.distributed import apply_gradient_allreduce
+from distributed import apply_gradient_allreduce
 import torch.distributed as dist
 from torch.utils.data.distributed import DistributedSampler
 from torch.utils.data import DataLoader
 
-from Tacotron2_.model import Tacotron2
-from Tacotron2_.data_utils import TextMelLoader, TextMelCollate
-from Tacotron2_.loss_function import Tacotron2Loss
-from Tacotron2_.logger import Tacotron2Logger
-from Tacotron2_.hparams import create_hparams
+from model import Tacotron2
+from data_utils import TextMelLoader, TextMelCollate
+from loss_function import Tacotron2Loss
+from logger import Tacotron2Logger
+from hparams import create_hparams
 
 
 def reduce_tensor(tensor, n_gpus):
@@ -72,7 +72,6 @@ def prepare_directories_and_logger(output_directory, log_directory, rank):
 
 def load_model(hparams):
     model = Tacotron2(hparams).cuda()
-    # model = Tacotron2_(hparams)
     if hparams.fp16_run:
         model.decoder.attention_layer.score_mask_value = finfo('float16').min
 
@@ -196,6 +195,15 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
         else:
             model, optimizer, _learning_rate, iteration = load_checkpoint(
                 checkpoint_path, model, optimizer)
+            # print('Freezing embedding, encoder ...')
+            # for param in model.embedding.parameters():
+            #     param.requires_grad = False
+                
+            # for param in model.encoder.parameters():
+            #     if not param.requires_grad:
+            #             print("whoopsies")
+            #     param.requires_grad = False
+            # print('Freezed')
             if hparams.use_saved_learning_rate:
                 learning_rate = _learning_rate
             iteration += 1  # next iteration is iteration + 1
