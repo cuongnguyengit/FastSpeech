@@ -154,7 +154,7 @@ def process_text(train_text_path):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--path', type=str, default='./')
-    parser.add_argument('--sent', type=float, default='xin chào tất cả các bạn')
+    parser.add_argument('--sent', type=str, default='xin chào tất cả các bạn')
     args = parser.parse_args()
     # Test
     alignment = get_tacotron2_alignment_test(
