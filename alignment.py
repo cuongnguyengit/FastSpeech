@@ -157,6 +157,7 @@ def process_text(train_text_path):
 
 
 if __name__ == "__main__":
+    # model = get_tacotron2()
     parser = argparse.ArgumentParser()
     parser.add_argument('--path', type=str, default='./')
     parser.add_argument('--sent', type=str, default='xin chào tất cả các bạn')
