@@ -35,12 +35,14 @@ import audio
 import hparams as hp
 
 
-def get_tacotron2():
+def get_tacotron2(checkpoint_path):
     hparams = hp_tacotron2.create_hparams()
     hparams.sampling_rate = hp.sample_rate
 
-    checkpoint_path = os.path.join("Tacotron2_", os.path.join(
-        "pre_trained_model", "tacotron2_statedict.pt"))
+    # checkpoint_path = os.path.join("Tacotron2_", os.path.join(
+    #     "pre_trained_model", "tacotron2_statedict.pt"))
+
+    # checkpoint_path =
 
     tacotron2 = train_tacotron2.load_model(hparams)
     tacotron2.load_state_dict(torch.load(checkpoint_path)["state_dict"])
@@ -82,9 +84,13 @@ def get_tacotron2_alignment_test(args):
         tacotron2.load_state_dict(torch.load(checkpoint_path)["state_dict"])
         _ = tacotron2.cuda().eval().half()
     except Exception as e:
-        print('### ERROR', e)
-        tacotron2.load_state_dict(torch.jit.load(checkpoint_path)["state_dict"])
-        _ = tacotron2.cuda().eval().half()
+        try:
+            print('### ERROR', e)
+            tacotron2.load_state_dict(torch.jit.load(checkpoint_path)["state_dict"])
+            _ = tacotron2.cuda().eval().half()
+        except Exception as e:
+            print('*** ERROR', e)
+            return 0
 
     sequence = np.array(text_to_sequence(text_seq, hp.text_cleaners))[None, :]
     print("sequence size", np.shape(sequence))
@@ -157,13 +163,20 @@ def process_text(train_text_path):
 
 
 if __name__ == "__main__":
-    # model = get_tacotron2()
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--path', type=str, default='./')
-    parser.add_argument('--sent', type=str, default='xin chào tất cả các bạn')
-    args = parser.parse_args()
-    # Test
-    alignment = get_tacotron2_alignment_test(
-        # "I want to go to CMU to do research on deep learning.")
-        args)
-    print(alignment)
+    try:
+        model = get_tacotron2('/content/checkpoint_42000')
+    except Exception as e:
+        print('ERROR1', e)
+    try:
+        model = get_tacotron2('/content/drive/My Drive/tacotron2/outdir_bak_tranfer_final/checkpoint_42000')
+    except Exception as e:
+        print('ERROR2', e)
+    # parser = argparse.ArgumentParser()
+    # parser.add_argument('--path', type=str, default='./')
+    # parser.add_argument('--sent', type=str, default='xin chào tất cả các bạn')
+    # args = parser.parse_args()
+    # # Test
+    # alignment = get_tacotron2_alignment_test(
+    #     # "I want to go to CMU to do research on deep learning.")
+    #     args)
+    # print(alignment)
