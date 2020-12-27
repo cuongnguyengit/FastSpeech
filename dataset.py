@@ -26,7 +26,7 @@ def get_data_to_buffer():
     for i in tqdm(range(len(text))):
 
         mel_gt_name = os.path.join(
-            hparams.mel_ground_truth, "ljspeech-mel-%05d.npy" % (i+1))
+            hparams.mel_ground_truth, "vlsp2020-mel-%05d.npy" % (i+1))
         mel_gt_target = np.load(mel_gt_name)
         duration = np.load(os.path.join(
             hparams.alignment_path, str(i)+".npy"))

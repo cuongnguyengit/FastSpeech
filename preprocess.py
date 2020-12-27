@@ -1,4 +1,4 @@
-import torch
+import argparse
 import numpy as np
 import shutil
 import os
@@ -25,10 +25,8 @@ def write_metadata(metadata, out_dir):
             f.write(m + '\n')
 
 
-def main():
-    path = os.path.join("data", "LJSpeech-1.1")
-    preprocess_ljspeech(path)
-
-
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--path', type=str, default='./')
+    args = parser.parse_args()
+    preprocess_ljspeech(args.path)

@@ -1,10 +1,12 @@
 import numpy as np
 import os
-import audio
-
-from tqdm import tqdm
-from functools import partial
-from concurrent.futures import ProcessPoolExecutor
+# import audio
+import torch
+from scipy.io.wavfile import read
+import audio as Audio
+# from tqdm import tqdm
+# from functools import partial
+# from concurrent.futures import ProcessPoolExecutor
 
 
 def build_from_path(in_dir, out_dir):
@@ -19,7 +21,8 @@ def build_from_path(in_dir, out_dir):
                 print("{:d} Done".format(index))
             parts = line.strip().split('|')
             wav_path = os.path.join(in_dir, 'wavs', '%s.wav' % parts[0])
-            text = parts[2]
+            print(wav_path)
+            text = parts[1]
             # futures.append(executor.submit(
             #     partial(_process_utterance, out_dir, index, wav_path, text)))
             texts.append(_process_utterance(out_dir, index, wav_path, text))
@@ -32,10 +35,13 @@ def build_from_path(in_dir, out_dir):
 
 def _process_utterance(out_dir, index, wav_path, text):
     # Compute a mel-scale spectrogram from the wav:
-    mel_spectrogram = audio.tools.get_mel(wav_path).numpy().astype(np.float32)
+    _, wav = read(wav_path)
+    print(wav.shape)
+    mel_spectrogram, energy = Audio.tools.get_mel_from_wav(torch.FloatTensor(wav))
+    mel_spectrogram = mel_spectrogram.numpy().astype(np.float32)
 
     # Write the spectrograms to disk:
-    mel_filename = 'ljspeech-mel-%05d.npy' % index
+    mel_filename = 'vlsp2020-mel-%05d.npy' % index
     np.save(os.path.join(out_dir, mel_filename),
             mel_spectrogram.T, allow_pickle=False)
 

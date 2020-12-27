@@ -1,5 +1,3 @@
-""" from https://github.com/NVIDIA/tacotron2 """
-
 import torch
 import torch.nn.functional as F
 from torch.autograd import Variable
@@ -17,7 +15,7 @@ from audio.audio_processing import window_sumsquare
 class STFT(torch.nn.Module):
     """adapted from Prem Seetharaman's https://github.com/pseeth/pytorch-stft"""
 
-    def __init__(self, filter_length=800, hop_length=200, win_length=800,
+    def __init__(self, filter_length, hop_length, win_length,
                  window='hann'):
         super(STFT, self).__init__()
         self.filter_length = filter_length
@@ -65,8 +63,8 @@ class STFT(torch.nn.Module):
         input_data = input_data.squeeze(1)
 
         forward_transform = F.conv1d(
-            input_data.cpu(),
-            Variable(self.forward_basis, requires_grad=False).cpu(),
+            input_data.cuda(),
+            Variable(self.forward_basis, requires_grad=False).cuda(),
             stride=self.hop_length,
             padding=0).cpu()
 
@@ -120,8 +118,8 @@ class STFT(torch.nn.Module):
 
 
 class TacotronSTFT(torch.nn.Module):
-    def __init__(self, filter_length=1024, hop_length=256, win_length=1024,
-                 n_mel_channels=80, sampling_rate=22050, mel_fmin=0.0,
+    def __init__(self, filter_length, hop_length, win_length,
+                 n_mel_channels, sampling_rate, mel_fmin=0.0,
                  mel_fmax=8000.0):
         super(TacotronSTFT, self).__init__()
         self.n_mel_channels = n_mel_channels
@@ -157,4 +155,6 @@ class TacotronSTFT(torch.nn.Module):
         magnitudes = magnitudes.data
         mel_output = torch.matmul(self.mel_basis, magnitudes)
         mel_output = self.spectral_normalize(mel_output)
-        return mel_output
+        energy = torch.norm(magnitudes, dim=1)
+
+        return mel_output, energy
